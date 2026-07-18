@@ -1,0 +1,1361 @@
+KONTONUMMER;ART;NAME;STATUS;GESPERRT_AM;GELOESCHT_AM;CPD_KENNZEICHEN
+800002;Kunde;POLARIS BAUBEDARF KG;Aktiv;;;Nein
+800004;Kunde;SÜD PANEELE KG;Aktiv;;;Nein
+800006;Kunde;WESERKUNSTSTOFFE GBR;Aktiv;;;Nein
+800010;Kunde;ATLAS TRANSPORT GMBH & CO. KG;Aktiv;;;Nein
+800026;Kunde;ARGUS ESTRICH GMBH;Aktiv;;;Nein
+800031;Kunde;TAUNUSGEBÄUDETECHNIK GMBH;Aktiv;;;Nein
+800039;Kunde;SOLID ANLAGENBAU GMBH;Aktiv;;;Nein
+800040;Kunde;SOLIDHOCHBAU GMBH;Aktiv;;;Nein
+800043;Kunde;TERRATIEFBAU GMBH & CO. KG;Aktiv;;;Nein
+800046;Kunde;PRIMUS MONTAGE GMBH;Aktiv;;;Nein
+800050;Kunde;KORUND LOGISTIK;Aktiv;;;Nein
+800051;Kunde;ZENITBAUBEDARF GMBH;Aktiv;;;Nein
+800055;Kunde;ALLGÄURECYCLING;Aktiv;;;Nein
+800056;Kunde;FORMA PROFILE GMBH & CO. KG;Aktiv;;;Nein
+800060;Kunde;HANSE INDUSTRIEBEDARF;Aktiv;;;Nein
+800062;Kunde;HARZ ANLAGENBAU GMBH;Aktiv;;;Nein
+800066;Kunde;NORDGERÜSTBAU GMBH;Aktiv;;;Nein
+800078;Kunde;KLINKERMETALL E.K.;Aktiv;;;Nein
+800086;Kunde;BOREASLOGISTIK GMBH;Aktiv;;;Nein
+800089;Kunde;ALLGÄUISOLIERTECHNIK GMBH;Aktiv;;;Nein
+800093;Kunde;KOMPAKT PLATTEN GMBH;Aktiv;;;Nein
+800106;Kunde;DELTAHOCHBAU GMBH & CO. KG;Aktiv;;;Nein
+800110;Kunde;PRIMUSGERÜSTBAU GMBH;Aktiv;;;Nein
+800113;Kunde;BOREALIS GERÜSTBAU GMBH;Aktiv;;;Nein
+800117;Kunde;ATLASBAUBEDARF;Aktiv;;;Nein
+800128;Kunde;MAIN ZIEGEL GMBH;Aktiv;;;Nein
+800143;Kunde;SÜD GEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+800150;Kunde;BEISPIEL ÖSTERREICH GMBH;Aktiv;;;Nein
+800159;Kunde;HANSEBAUSTOFFE GMBH;Aktiv;;;Nein
+800160;Kunde;ATLAS SYSTEME GMBH;Aktiv;;;Nein
+800165;Kunde;VEGA ZIEGEL GMBH & CO. KG;Aktiv;;;Nein
+800168;Kunde;ARGUS TIEFBAU GMBH;Aktiv;;;Nein
+800170;Kunde;KOMPAKTPROFILE GMBH & CO. KG;Aktiv;;;Nein
+800171;Kunde;PRIMUS DÄMMTECHNIK KG;Aktiv;;;Nein
+800175;Kunde;ALLGÄUANLAGENBAU GMBH;Aktiv;;;Nein
+800177;Kunde;Verrechnungskonto Zentralregulierung/Zahlungsverkehr 1;Aktiv;;;Ja
+800179;Kunde;OSTWERKZEUGE GMBH;Aktiv;;;Nein
+800181;Kunde;HANSE GEBÄUDETECHNIK GMBH;Aktiv;;;Nein
+800184;Kunde;NORDLOGISTIK GMBH;Aktiv;;;Nein
+800186;Kunde;KORUND ELEKTRO GMBH;Aktiv;;;Nein
+800188;Kunde;VEGA GEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+800189;Kunde;FOKUS MONTAGE MBH;Aktiv;;;Nein
+800190;Kunde;WEST GEBÄUDETECHNIK GMBH;Aktiv;;;Nein
+800197;Kunde;BOREALISGERÜSTBAU GMBH;Aktiv;;;Nein
+800210;Kunde;BASALTTIEFBAU GMBH & CO. KG;Gesperrt;06.09.2024;;Nein
+800211;Kunde;FELDSPAT HOCHBAU GMBH & CO. KG;Aktiv;;;Nein
+800212;Kunde;ZENIT HANDEL GMBH;Aktiv;;;Nein
+800215;Kunde;SILVA HOCHBAU GMBH & CO. KG;Aktiv;;;Nein
+800220;Kunde;ATLASISOLIERTECHNIK GMBH & CO. KG;Aktiv;;;Nein
+800222;Kunde;PRISMA METALL GMBH;Aktiv;;;Nein
+800224;Kunde;GLIMMER FASSADEN GMBH;Aktiv;;;Nein
+800231;Kunde;ALLGÄU HANDEL GMBH & CO. KG;Aktiv;;;Nein
+800233;Kunde;SILVAKUNSTSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+800237;Kunde;ORIONBETON GMBH;Aktiv;;;Nein
+800238;Kunde;TERRA SYSTEME;Zur Loeschung markiert;;21.03.2024;Nein
+800243;Kunde;SÜD INDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+800246;Kunde;ARGUS HANDEL GMBH;Aktiv;;;Nein
+800247;Kunde;KIESEL AKUSTIKBAU;Aktiv;;;Nein
+800248;Kunde;ONYX DACHSYSTEME GMBH & CO. KG;Aktiv;;;Nein
+800253;Kunde;ELBTAL MONTAGE GMBH;Aktiv;;;Nein
+800283;Kunde;BOREALISBAU KG;Aktiv;;;Nein
+800284;Kunde;FORMA ZIEGEL GMBH & CO. KG;Aktiv;;;Nein
+800286;Kunde;SILVAANLAGENBAU GMBH;Aktiv;;;Nein
+800291;Kunde;ALPEN TECHNIK;Aktiv;;;Nein
+800292;Kunde;ARGUSBAUSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+800295;Kunde;NOVAFOLIEN MBH;Aktiv;;;Nein
+800298;Kunde;ARGUS GERÜSTBAU;Aktiv;;;Nein
+800313;Kunde;ROBURRECYCLING GMBH;Aktiv;;;Nein
+800498;Kunde;ZENIT HOCHBAU KG;Aktiv;;;Nein
+800603;Kunde;TAUNUS TROCKENBAU BV;Aktiv;;;Nein
+800630;Kunde;FORMA FOLIEN GMBH;Aktiv;;;Nein
+800645;Kunde;HANSEPROFILE GMBH & CO. KG;Aktiv;;;Nein
+800646;Kunde;KOMPAKT RECYCLING GMBH & CO. KG;Aktiv;;;Nein
+800670;Kunde;RHEINFOLIEN GMBH;Aktiv;;;Nein
+800688;Kunde;WESERPROFILE;Aktiv;;;Nein
+800692;Kunde;BASANIT PROFILE GMBH & CO. KG;Aktiv;;;Nein
+800697;Kunde;RHEINPROFILE GMBH;Aktiv;;;Nein
+800719;Kunde;TAUNUSPANEELE;Aktiv;;;Nein
+800768;Kunde;SILVAGERÜSTBAU GMBH;Aktiv;;;Nein
+800813;Kunde;ORIONHANDEL AG;Aktiv;;;Nein
+800819;Kunde;CERESMONTAGE GMBH;Aktiv;;;Nein
+800860;Kunde;NOVAELEKTRO;Aktiv;;;Nein
+800861;Kunde;CERES TIEFBAU GMBH;Aktiv;;;Nein
+800911;Kunde;WESERHANDEL GMBH;Aktiv;;;Nein
+800945;Kunde;SOLID FOLIEN GMBH & CO. KG;Aktiv;;;Nein
+800946;Kunde;HANSE TROCKENBAU;Aktiv;;;Nein
+800973;Kunde;ALPEN FOLIEN OHG;Aktiv;;;Nein
+800984;Kunde;OPAL INNENAUSBAU;Aktiv;;;Nein
+800989;Kunde;ALLGÄUELEKTRO;Aktiv;;;Nein
+800991;Kunde;TALUS VERPACKUNG AG;Aktiv;;;Nein
+801015;Kunde;TAUNUS BETON GMBH;Aktiv;;;Nein
+801026;Kunde;ORION TIEFBAU GMBH & CO. KG;Aktiv;;;Nein
+801033;Kunde;WESER GEBÄUDETECHNIK GMBH;Aktiv;;;Nein
+801037;Kunde;SILVA INDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+801054;Kunde;FORMA PROFILE GMBH & CO. KG;Aktiv;;;Nein
+801071;Kunde;FORMA PLATTEN GMBH;Aktiv;;;Nein
+801088;Kunde;GRANITSPEDITION GMBH;Aktiv;;;Nein
+801090;Kunde;NOVAHANDEL;Aktiv;;;Nein
+801116;Kunde;TALUS INDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+801120;Kunde;ROBUR MONTAGE GMBH;Aktiv;;;Nein
+801122;Kunde;DELTAMASCHINEN GMBH & CO. KG;Aktiv;;;Nein
+801152;Kunde;FORMA TECHNIK GMBH & CO. KG;Aktiv;;;Nein
+801178;Kunde;ZENITCHEMIE GMBH & CO. KG;Aktiv;;;Nein
+801179;Kunde;TALUSINDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+801199;Kunde;PRISMA VERPACKUNG GMBH & CO. KG;Aktiv;;;Nein
+801206;Kunde;ELBTAL TROCKENBAU GMBH;Aktiv;;;Nein
+801213;Kunde;TALUSBETON GMBH & CO. KG;Aktiv;;;Nein
+801239;Kunde;BASALT TECHNIK GMBH;Aktiv;;;Nein
+801276;Kunde;OST MASCHINEN B.V.;Aktiv;;;Nein
+801286;Kunde;PRIMUSLOGISTIK GMBH & CO. KG;Aktiv;;;Nein
+801314;Kunde;KOMPAKT LOGISTIK GMBH;Aktiv;;;Nein
+801317;Kunde;BOREAS PLATTEN GMBH;Aktiv;;;Nein
+801328;Kunde;BOREALISTROCKENBAU;Aktiv;;;Nein
+801353;Kunde;FOKUSTECHNIK KG;Aktiv;;;Nein
+801382;Kunde;TALUS BAUBEDARF GMBH & CO. KG;Aktiv;;;Nein
+801386;Kunde;TALUS BAUBEDARF GMBH & CO. KG RG NORD;Aktiv;;;Nein
+801401;Kunde;WEST GERÜSTBAU SA;Aktiv;;;Nein
+801402;Kunde;NordBeton;Aktiv;;;Nein
+801407;Kunde;WESERBAUSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+801424;Kunde;ALPENBETON GMBH & CO. KG;Aktiv;;;Nein
+801431;Kunde;GNEIS BAUELEMENTE GMBH;Aktiv;;;Nein
+801435;Kunde;ALLGÄU INDUSTRIEBEDARF GMBH & CO. KG;Aktiv;;;Nein
+801449;Kunde;TAUNUSBETON;Aktiv;;;Nein
+801459;Kunde;TERRABAUBEDARF GMBH;Aktiv;;;Nein
+801465;Kunde;KOMPAKT PLATTEN GMBH;Aktiv;;;Nein
+801486;Kunde;KORUNDBAUBEDARF GMBH;Aktiv;;;Nein
+801490;Kunde;VULKANTIEFBAU GMBH;Aktiv;;;Nein
+801492;Kunde;ROBUR PROFILE;Aktiv;;;Nein
+801500;Kunde;TAUNUS SYSTEME GMBH;Aktiv;;;Nein
+801547;Kunde;HANSEZIEGEL GMBH & CO. KG;Aktiv;;;Nein
+801609;Kunde;DELTAKUNSTSTOFFE GMBH;Aktiv;;;Nein
+801618;Kunde;ALPEN CHEMIE GMBH;Aktiv;;;Nein
+801648;Kunde;OSTSYSTEME GMBH & CO. KG;Aktiv;;;Nein
+801662;Kunde;FORMA CHEMIE;Aktiv;;;Nein
+801677;Kunde;SOLID ELEKTRO GMBH;Aktiv;;;Nein
+801678;Kunde;NOVARECYCLING;Aktiv;;;Nein
+801684;Kunde;PYRIT INDUSTRIEBAU;Aktiv;;;Nein
+801693;Kunde;BASALTVERPACKUNG GMBH & CO. KG;Aktiv;;;Nein
+801828;Kunde;QUARZDÄMMTECHNIK AG;Aktiv;;;Nein
+801839;Kunde;MAIN FOLIEN GMBH;Aktiv;;;Nein
+801849;Kunde;CERESMASCHINEN GMBH;Aktiv;;;Nein
+801856;Kunde;ZENIT BAU GMBH & CO. KG;Aktiv;;;Nein
+801896;Kunde;BASALT TRANSPORT GMBH;Aktiv;;;Nein
+801900;Kunde;CERESELEKTRO;Aktiv;;;Nein
+801936;Kunde;OST PROFILE;Aktiv;;;Nein
+801948;Kunde;MAIN TECHNIK;Aktiv;;;Nein
+801953;Kunde;ELBTALPLATTEN GMBH & CO. KG;Aktiv;;;Nein
+801963;Kunde;JASPIS STAHLBAU OHG;Aktiv;;;Nein
+801992;Kunde;ROBURSPEDITION GMBH;Aktiv;;;Nein
+802002;Kunde;BASALTMONTAGE GMBH & CO. KG;Aktiv;;;Nein
+802007;Kunde;VULKAN TECHNIK;Aktiv;;;Nein
+802011;Kunde;KOMPAKTBAUSTOFFE GMBH;Aktiv;;;Nein
+802043;Kunde;VULKAN CHEMIE;Aktiv;;;Nein
+802047;Kunde;POLARISBETON GMBH;Aktiv;;;Nein
+802064;Kunde;ARGUSCHEMIE GMBH & CO. KG;Aktiv;;;Nein
+802065;Kunde;SÜD TRANSPORT GMBH;Aktiv;;;Nein
+802073;Kunde;BASALT PANEELE GMBH;Aktiv;;;Nein
+802090;Kunde;ARGUS WERKZEUGE;Aktiv;;;Nein
+802093;Kunde;ALLGÄUBAU GMBH;Aktiv;;;Nein
+802094;Kunde;KLINKER ELEKTRO GMBH & CO. KG;Aktiv;;;Nein
+802096;Kunde;ZENIT TROCKENBAU GMBH;Aktiv;;;Nein
+802098;Kunde;VEGA LOGISTIK GMBH & CO. KG;Aktiv;;;Nein
+802099;Kunde;GRANIT SYSTEME MBH;Aktiv;;;Nein
+802106;Kunde;WESER GEBÄUDETECHNIK GMBH;Aktiv;;;Nein
+802117;Kunde;ZENITWERKZEUGE;Aktiv;;;Nein
+802127;Kunde;ZENITTIEFBAU GMBH;Aktiv;;;Nein
+802129;Kunde;VEGAINDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+802137;Kunde;KOMPAKT RECYCLING GMBH & CO. KG;Aktiv;;;Nein
+802143;Kunde;ELBTAL BAUSTOFFE A/S;Aktiv;;;Nein
+802147;Kunde;QUARZ SPEDITION GMBH;Aktiv;;;Nein
+802151;Kunde;CERES PANEELE GMBH & CO. KG;Aktiv;;;Nein
+802153;Kunde;TERRAMETALL GMBH;Aktiv;;;Nein
+802157;Kunde;NORD KUNSTSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+802160;Kunde;Verrechnungskonto Zentralregulierung/Zahlungsverkehr 2;Aktiv;;;Ja
+802168;Kunde;NOVA GEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+802171;Kunde;Verrechnungskonto Zentralregulierung/Zahlungsverkehr 3;Aktiv;;;Ja
+802177;Kunde;ARGUS ELEKTRO;Aktiv;;;Nein
+802179;Kunde;PRIMUS SPEDITION GMBH & CO. KG;Aktiv;;;Nein
+802180;Kunde;DELTAMONTAGE KG;Aktiv;;;Nein
+802183;Kunde;HARZMASCHINEN GMBH;Aktiv;;;Nein
+802204;Kunde;ARGUS GERÜSTBAU;Aktiv;;;Nein
+802210;Kunde;SOLIDPANEELE GMBH & CO. KG;Aktiv;;;Nein
+802215;Kunde;TERRA LOGISTIK GMBH;Aktiv;;;Nein
+802236;Kunde;ALPEN BETON GMBH;Aktiv;;;Nein
+802241;Kunde;QUARZBEDACHUNG GMBH;Aktiv;;;Nein
+802244;Kunde;FOKUSSPEDITION GMBH;Aktiv;;;Nein
+802258;Kunde;KORUNDGEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+802262;Kunde;TERRA RECYCLING GMBH;Aktiv;;;Nein
+802266;Kunde;CERES TRANSPORT GMBH & CO. KG;Aktiv;;;Nein
+802269;Kunde;ZENITKUNSTSTOFFE GMBH;Aktiv;;;Nein
+802278;Kunde;WESER ZIEGEL GMBH;Aktiv;;;Nein
+802283;Kunde;HANSE RECYCLING;Aktiv;;;Nein
+802289;Kunde;DELTA ZIEGEL GMBH & CO. KG;Aktiv;;;Nein
+802295;Kunde;TAUNUS GERÜSTBAU GMBH & CO. KG;Aktiv;;;Nein
+802300;Kunde;ROBURHOCHBAU GMBH;Aktiv;;;Nein
+802328;Kunde;NORDANLAGENBAU;Aktiv;;;Nein
+802350;Kunde;PRIMUSMASCHINEN KG;Aktiv;;;Nein
+802367;Kunde;GRANITKUNSTSTOFFE;Aktiv;;;Nein
+802380;Kunde;SOLIDGEBÄUDETECHNIK B.V.;Aktiv;;;Nein
+802416;Kunde;BOREAS BAUBEDARF GMBH;Aktiv;;;Nein
+802417;Kunde;ZENITCHEMIE GMBH & CO. KG;Aktiv;;;Nein
+802440;Kunde;DELTAVERPACKUNG GMBH & CO. KG;Aktiv;;;Nein
+802445;Kunde;HANSE INDUSTRIEBEDARF GMBH;Aktiv;;;Nein
+802452;Kunde;KORUNDANLAGENBAU GMBH;Aktiv;;;Nein
+802460;Kunde;FORMAFOLIEN GMBH;Aktiv;;;Nein
+802462;Kunde;SILVA TECHNIK;Aktiv;;;Nein
+802474;Kunde;TALUS PANEELE GMBH;Aktiv;;;Nein
+802476;Kunde;TERRATRANSPORT GMBH;Aktiv;;;Nein
+802477;Kunde;FORMAZIEGEL GMBH;Aktiv;;;Nein
+802492;Kunde;BOREASZIEGEL;Aktiv;;;Nein
+802497;Kunde;GRANITESTRICH GMBH & CO. KG;Aktiv;;;Nein
+802506;Kunde;QUARZBAUSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+802510;Kunde;BOREAS TROCKENBAU GMBH;Aktiv;;;Nein
+802513;Kunde;ALLGÄUANLAGENBAU;Aktiv;;;Nein
+802519;Kunde;SOLID SYSTEME GMBH;Aktiv;;;Nein
+802521;Kunde;BASALTVERPACKUNG GMBH;Aktiv;;;Nein
+802524;Kunde;DELTASPEDITION GMBH;Aktiv;;;Nein
+802528;Kunde;VEGA HOCHBAU GMBH;Aktiv;;;Nein
+802530;Kunde;KORUND ZIEGEL GMBH;Aktiv;;;Nein
+802532;Kunde;WESTWERKZEUGE GMBH & CO. KG;Aktiv;;;Nein
+802545;Kunde;SÜDBAU GMBH;Aktiv;;;Nein
+802546;Kunde;ATLAS GEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+802549;Kunde;SOLIDRECYCLING KG;Aktiv;;;Nein
+802559;Kunde;ZENIT BEDACHUNG;Aktiv;;;Nein
+802661;Kunde;VULKANSPEDITION GMBH;Aktiv;;;Nein
+802662;Kunde;ELBTALBEDACHUNG GMBH;Aktiv;;;Nein
+802669;Kunde;GRANITSYSTEME KG;Aktiv;;;Nein
+802675;Kunde;HANSE GEBÄUDETECHNIK GMBH NL RAAB KARCHER;Aktiv;;;Nein
+802677;Kunde;BOREALIS WERKZEUGE GMBH & CO. KG;Aktiv;;;Nein
+802691;Kunde;VEGATRANSPORT GMBH & CO. KG;Aktiv;;;Nein
+802694;Kunde;NORD MASCHINEN GMBH & CO. KG;Gesperrt;27.03.2024;;Nein
+802699;Kunde;ATLASANLAGENBAU;Aktiv;;;Nein
+802705;Kunde;TOPAS ISOLIERBAU;Aktiv;;;Nein
+802707;Kunde;ALLGÄUKUNSTSTOFFE GMBH;Aktiv;;;Nein
+802720;Kunde;ZIRKON FASSADENBAU;Aktiv;;;Nein
+802722;Kunde;ALPEN ESTRICH GMBH & CO. KG;Aktiv;;;Nein
+802724;Kunde;KLINKER ZIEGEL GMBH;Aktiv;;;Nein
+802726;Kunde;GRANITKUNSTSTOFFE KG;Aktiv;;;Nein
+802727;Kunde;WESERTIEFBAU GMBH & CO. KG;Aktiv;;;Nein
+802729;Kunde;VEGALOGISTIK;Aktiv;;;Nein
+802736;Kunde;CeresMaschinen;Aktiv;;;Nein
+802749;Kunde;HARZHOCHBAU;Aktiv;;;Nein
+802753;Kunde;ATLASWERKZEUGE GMBH;Aktiv;;;Nein
+802754;Kunde;KOMPAKT ANLAGENBAU GMBH;Aktiv;;;Nein
+802762;Kunde;BERNSTEIN FASSADEN;Aktiv;;;Nein
+802770;Kunde;PRISMASYSTEME GMBH;Aktiv;;;Nein
+802773;Kunde;BOREALIS ISOLIERTECHNIK GMBH;Aktiv;;;Nein
+802776;Kunde;VULKANSYSTEME GMBH & CO. KG;Aktiv;;;Nein
+802787;Kunde;ROBURMONTAGE GMBH;Aktiv;;;Nein
+802788;Kunde;RUBIN SCHALUNGSBAU;Aktiv;;;Nein
+802794;Kunde;FORMAMETALL GMBH;Aktiv;;;Nein
+802800;Kunde;ACHAT LEICHTBAU;Aktiv;;;Nein
+802825;Kunde;HARZTRANSPORT MBH;Aktiv;;;Nein
+802827;Kunde;HARZCHEMIE GMBH;Aktiv;;;Nein
+802833;Kunde;RHEIN BAUBEDARF E.K.;Aktiv;;;Nein
+802838;Kunde;MAIN WERKZEUGE GMBH;Aktiv;;;Nein
+802839;Kunde;QUARZDÄMMTECHNIK AG;Aktiv;;;Nein
+802852;Kunde;VEGAFOLIEN;Aktiv;;;Nein
+802893;Kunde;ZENIT TROCKENBAU GMBH;Aktiv;;;Nein
+802904;Kunde;KORALLE SYSTEMBAU;Aktiv;;;Nein
+802941;Kunde;HARZBETON E.K.;Aktiv;;;Nein
+802949;Kunde;ALLGÄUPROFILE GMBH & CO. KG;Aktiv;;;Nein
+802956;Kunde;NOVABAU GMBH;Aktiv;;;Nein
+802960;Kunde;ORION SPEDITION GMBH;Aktiv;;;Nein
+802962;Kunde;TAUNUSBEDACHUNG E.K.;Aktiv;;;Nein
+802966;Kunde;PRIMUSCHEMIE GMBH & CO. KG;Aktiv;;;Nein
+802970;Kunde;QUARZ BETON SRL;Aktiv;;;Nein
+802971;Kunde;PRISMAMONTAGE AB;Aktiv;;;Nein
+802980;Kunde;PRIMUSBAUSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+802983;Kunde;ALPEN TROCKENBAU;Aktiv;;;Nein
+802989;Kunde;FLINT MONTAGEBAU;Aktiv;;;Nein
+802992;Kunde;GRANIT SPEDITION GMBH;Aktiv;;;Nein
+802993;Kunde;VULKAN GERÜSTBAU;Aktiv;;;Nein
+802994;Kunde;POLARIS GEBÄUDETECHNIK GMBH & CO. KG;Aktiv;;;Nein
+802995;Kunde;OSTGERÜSTBAU KG;Aktiv;;;Nein
+802997;Kunde;ORION METALL GMBH & CO. KG;Aktiv;;;Nein
+802998;Kunde;OST HOCHBAU;Aktiv;;;Nein
+802999;Kunde;WEST WERKZEUGE GMBH;Aktiv;;;Nein
+803000;Kunde;BEISPIEL D.O.O.;Aktiv;;;Nein
+803001;Kunde;BEISPIEL COM S.R.L.;Aktiv;;;Nein
+803002;Kunde;ROBUR MASCHINEN GMBH;Aktiv;;;Nein
+803008;Kunde;TAUNUSHANDEL GMBH & CO. KG;Aktiv;;;Nein
+803010;Kunde;Verrechnungskonto Zentralregulierung/Zahlungsverkehr 4;Aktiv;;;Ja
+803021;Kunde;TERRAZIEGEL;Aktiv;;;Nein
+803022;Kunde;GAGAT TROCKENBAU;Aktiv;;;Nein
+803025;Kunde;ARGUS CHEMIE GMBH & CO. KG;Aktiv;;;Nein
+803027;Kunde;ARGUS CHEMIE GMBH & CO. KG;Aktiv;;;Nein
+803028;Kunde;ARGUS CHEMIE GMBH & CO. KG;Aktiv;;;Nein
+803029;Kunde;ARGUS CHEMIE GMBH & CO. KG;Aktiv;;;Nein
+803030;Kunde;VULKAN HOCHBAU GMBH & CO. KG;Aktiv;;;Nein
+803032;Kunde;BEISPIEL BH D.O.O.;Aktiv;;;Nein
+803033;Kunde;GRANITESTRICH GMBH & CO. KG;Aktiv;;;Nein
+803036;Kunde;BOREASBEDACHUNG GMBH;Aktiv;;;Nein
+803039;Kunde;MAINBAUSTOFFE;Aktiv;;;Nein
+803040;Kunde;PRISMA PROFILE SA;Aktiv;;;Nein
+803041;Kunde;ATLASGEBÄUDETECHNIK AG;Aktiv;;;Nein
+803042;Kunde;CERESWERKZEUGE GMBH & CO. KG;Aktiv;;;Nein
+803050;Kunde;FOKUS PLATTEN GMBH;Aktiv;;;Nein
+803052;Kunde;NOVA BAUSTOFFE GMBH;Aktiv;;;Nein
+803053;Kunde;TAUNUS TROCKENBAU;Aktiv;;;Nein
+803056;Kunde;GRANITBAUSTOFFE GMBH;Aktiv;;;Nein
+803059;Kunde;SOLID PROFILE GMBH & CO. KG;Aktiv;;;Nein
+803062;Kunde;ATLASISOLIERTECHNIK GMBH;Aktiv;;;Nein
+803063;Kunde;HANSE ANLAGENBAU GMBH & CO. KG;Aktiv;;;Nein
+803073;Kunde;DELTAPLATTEN GMBH & CO. KG;Aktiv;;;Nein
+803076;Kunde;MARMOR AKUSTIK GMBH;Aktiv;;;Nein
+803078;Kunde;VEGAMONTAGE GMBH;Aktiv;;;Nein
+803080;Kunde;ALPENWERKZEUGE;Aktiv;;;Nein
+803082;Kunde;NORDBAUSTOFFE GMBH;Aktiv;;;Nein
+803085;Kunde;ARGUSPROFILE GMBH;Aktiv;;;Nein
+803096;Kunde;ROBUR ANLAGENBAU GMBH;Aktiv;;;Nein
+803104;Kunde;BOREALISBEDACHUNG GMBH;Aktiv;;;Nein
+803109;Kunde;HARZGERÜSTBAU APS;Aktiv;;;Nein
+803111;Kunde;BASALTWERKZEUGE;Aktiv;;;Nein
+803123;Kunde;HANSEHOCHBAU GMBH;Aktiv;;;Nein
+803127;Kunde;SÜD ESTRICH GMBH;Aktiv;;;Nein
+803129;Kunde;BEISPIEL GMBH;Aktiv;;;Nein
+803130;Kunde;DELTA TRANSPORT GMBH & CO. KG;Aktiv;;;Nein
+803136;Kunde;ALPEN ZIEGEL GMBH;Aktiv;;;Nein
+803137;Kunde;BOREAS MONTAGE GMBH;Aktiv;;;Nein
+803139;Kunde;FORMA HANDEL KG;Aktiv;;;Nein
+803145;Kunde;HARZESTRICH GMBH;Aktiv;;;Nein
+803149;Kunde;KOMPAKT CHEMIE GMBH & CO. KG;Aktiv;;;Nein
+803150;Kunde;ZENITMETALL GMBH;Aktiv;;;Nein
+803171;Kunde;SÜDVERPACKUNG GMBH;Aktiv;;;Nein
+300002;Lieferant;Stadt Musterstadt;Aktiv;;;Nein
+300004;Lieferant;DeltaAnlagenbau;Aktiv;;;Nein
+300005;Lieferant;Ingenieurbüro Auriga;Aktiv;;;Nein
+300006;Lieferant;GLI Musterland mbH;Aktiv;;;Nein
+300007;Lieferant;HarzGebäudetechnik GmbH;Aktiv;;;Nein
+300008;Lieferant;BoreasTechnik;Aktiv;;;Nein
+300009;Lieferant;Landkreis Musterland;Aktiv;;;Nein
+300010;Lieferant;TerraEnergie;Aktiv;;;Nein
+300013;Lieferant;Forma Trockenbau GmbH;Aktiv;;;Nein
+300015;Lieferant;Kompakt Metall GmbH;Aktiv;;;Nein
+300019;Lieferant;Vega Bau GmbH & Co. KG;Gesperrt;30.06.2025;;Nein
+300020;Lieferant;WestSysteme GmbH;Aktiv;;;Nein
+300021;Lieferant;KlinkerHandel GmbH;Aktiv;;;Nein
+300023;Lieferant;Beispiel Österreich GmbH;Aktiv;;;Nein
+300024;Lieferant;Stadtwerke Musterstadt;Aktiv;;;Nein
+300026;Lieferant;Rigel Anlagentechnik GmbH & Co. KG;Aktiv;;;Nein
+300027;Lieferant;Süd Bedachung GmbH;Aktiv;;;Nein
+300029;Lieferant;Vulkan Werkzeuge;Aktiv;;;Nein
+300032;Lieferant;Nord Paneele GmbH;Aktiv;;;Nein
+300034;Lieferant;QuarzDämmtechnik;Aktiv;;;Nein
+300035;Lieferant;SüdMetall AG;Aktiv;;;Nein
+300036;Lieferant;Nova Recycling GmbH;Aktiv;;;Nein
+300037;Lieferant;TerraFolien;Aktiv;;;Nein
+300038;Lieferant;OstGebäudetechnik;Aktiv;;;Nein
+300041;Lieferant;KompaktEnergie GmbH;Aktiv;;;Nein
+300042;Lieferant;FormaProfile GmbH;Aktiv;;;Nein
+300043;Lieferant;TalusPlatten GmbH;Aktiv;;;Nein
+300044;Lieferant;PrismaIsoliertechnik KGaA;Aktiv;;;Nein
+300045;Lieferant;Weser Trockenbau GmbH;Aktiv;;;Nein
+300046;Lieferant;TalusGebäudetechnik (CpD/Diverse);Aktiv;;;Ja
+300048;Lieferant;NovaBau GmbH & Co KG;Aktiv;;;Nein
+300050;Lieferant;KompaktKunststoffe;Aktiv;;;Nein
+300051;Lieferant;Kanzlei Altair Rechtsanwälte;Aktiv;;;Nein
+300052;Lieferant;Delta Platten GmbH;Aktiv;;;Nein
+300053;Lieferant;Silva Maschinen GmbH;Aktiv;;;Nein
+300054;Lieferant;KorundRecycling;Aktiv;;;Nein
+300058;Lieferant;NordEstrich GmbH;Aktiv;;;Nein
+300059;Lieferant;ORIONPANEELE MBH;Aktiv;;;Nein
+300060;Lieferant;Harz Folien GmbH & Co. KG;Aktiv;;;Nein
+300061;Lieferant;FormaSpedition GmbH;Aktiv;;;Nein
+300062;Lieferant;Musterland-Werkstätten;Aktiv;;;Nein
+300065;Lieferant;Quarz Metall GmbH;Aktiv;;;Nein
+300074;Lieferant;TalusGerüstbau GmbH & Co. KG;Aktiv;;;Nein
+300078;Lieferant;Talus Estrich;Aktiv;;;Nein
+300082;Lieferant;Alpen Elektro KG;Aktiv;;;Nein
+300083;Lieferant;Vega Industriebedarf GmbH;Aktiv;;;Nein
+300084;Lieferant;ArgusDämmtechnik mbH;Aktiv;;;Nein
+300085;Lieferant;Rhein Logistik;Aktiv;;;Nein
+300086;Lieferant;Silva Paneele GmbH;Aktiv;;;Nein
+300087;Lieferant;NordHandel GmbH & Co. KG;Aktiv;;;Nein
+300088;Lieferant;Deneb Werkzeugbau GmbH;Aktiv;;;Nein
+300091;Lieferant;PrimusWerkzeuge GmbH;Aktiv;;;Nein
+300092;Lieferant;GranitMetall GmbH;Aktiv;;;Nein
+300095;Lieferant;DeltaSysteme GmbH;Aktiv;;;Nein
+300096;Lieferant;Ost Transport GmbH;Aktiv;;;Nein
+300097;Lieferant;Rhein Baustoffe GmbH;Aktiv;;;Nein
+300099;Lieferant;HansePaneele;Aktiv;;;Nein
+300100;Lieferant;Vulkan Folien GmbH;Aktiv;;;Nein
+300105;Lieferant;OstBau KG;Aktiv;;;Nein
+300110;Lieferant;NORDZIEGEL GMBH;Aktiv;;;Nein
+300111;Lieferant;Basalt Folien GmbH;Aktiv;;;Nein
+300113;Lieferant;ELBTAL KUNSTSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+300114;Lieferant;Delta Elektro GmbH & Co.KG;Aktiv;;;Nein
+300115;Lieferant;TerraBaubedarf GmbH & Co. KG;Aktiv;;;Nein
+300116;Lieferant;HanseMaschinen e.K.;Aktiv;;;Nein
+300117;Lieferant;BorealisFolien GmbH;Aktiv;;;Nein
+300119;Lieferant;BasaltLogistik GmbH;Aktiv;;;Nein
+300120;Lieferant;Solid Transport GmbH;Aktiv;;;Nein
+300121;Lieferant;Beispiel Sp. z o.o.;Aktiv;;;Nein
+300123;Lieferant;SilvaTiefbau GmbH & Co. KG;Aktiv;;;Nein
+300129;Lieferant;Mizar Bautenschutz GbR;Aktiv;;;Nein
+300130;Lieferant;Primus Industriebedarf GmbH;Aktiv;;;Nein
+300134;Lieferant;Nova Hochbau GbR;Aktiv;;;Nein
+300135;Lieferant;KlinkerFolien;Aktiv;;;Nein
+300138;Lieferant;PrismaMontage GmbH;Aktiv;;;Nein
+300139;Lieferant;SüdMetall GmbH;Aktiv;;;Nein
+300142;Lieferant;OrionBaustoffe GmbH;Aktiv;;;Nein
+300143;Lieferant;Forma Tiefbau GmbH;Aktiv;;;Nein
+300146;Lieferant;Delta Tiefbau GmbH;Aktiv;;;Nein
+300147;Lieferant;PrismaBau GmbH;Aktiv;;;Nein
+300149;Lieferant;Quarz Platten;Aktiv;;;Nein
+300150;Lieferant;ArgusBedachung GmbH;Aktiv;;;Nein
+300151;Lieferant;Robur Folien GmbH & Co KG;Aktiv;;;Nein
+300152;Lieferant;Vega Gebäudetechnik GmbH;Aktiv;;;Nein
+300154;Lieferant;Nord Energie;Aktiv;;;Nein
+300155;Lieferant;Borealis Metall GmbH;Aktiv;;;Nein
+300159;Lieferant;OrionTiefbau GmbH & Co KG;Aktiv;;;Nein
+300160;Lieferant;Hanse Hochbau;Aktiv;;;Nein
+300162;Lieferant;BasaltRecycling;Aktiv;;;Nein
+300163;Lieferant;QuarzProfile GmbH;Aktiv;;;Nein
+300166;Lieferant;Nord Beton AG;Aktiv;;;Nein
+300167;Lieferant;Silva Elektro;Aktiv;;;Nein
+300168;Lieferant;OrionZiegel GmbH;Aktiv;;;Nein
+300170;Lieferant;BoreasMetall GmbH;Aktiv;;;Nein
+300172;Lieferant;Grus Baustofflogistik GmbH;Aktiv;;;Nein
+300173;Lieferant;Terra Paneele GmbH;Aktiv;;;Nein
+300179;Lieferant;Ost Baustoffe GmbH;Aktiv;;;Nein
+300182;Lieferant;Boreas Systeme GmbH;Aktiv;;;Nein
+300184;Lieferant;SilvaWerkzeuge GmbH;Aktiv;;;Nein
+300185;Lieferant;Orion Industriebedarf;Aktiv;;;Nein
+300186;Lieferant;Beispiel Com S.R.L.;Aktiv;;;Nein
+300187;Lieferant;FokusTransport GmbH;Aktiv;;;Nein
+300188;Lieferant;FokusZiegel GmbH;Aktiv;;;Nein
+300191;Lieferant;Orion Maschinen;Aktiv;;;Nein
+300193;Lieferant;ArgusIsoliertechnik GmbH;Aktiv;;;Nein
+300195;Lieferant;GranitBau;Aktiv;;;Nein
+300196;Lieferant;Ceres Anlagenbau GmbH;Aktiv;;;Nein
+300200;Lieferant;MainMaschinen GmbH;Aktiv;;;Nein
+300201;Lieferant;Ingenieurbüro Carina;Aktiv;;;Nein
+300202;Lieferant;ABS Musterland GmbH;Aktiv;;;Nein
+300203;Lieferant;NordHandel GmbH;Aktiv;;;Nein
+300204;Lieferant;Korund Isoliertechnik GmbH;Aktiv;;;Nein
+300208;Lieferant;CeresGebäudetechnik GmbH;Aktiv;;;Nein
+300218;Lieferant;Atlas Baustoffe;Aktiv;;;Nein
+300219;Lieferant;KorundHandel GmbH;Gesperrt;12.03.2024;;Nein
+300220;Lieferant;Quarz Isoliertechnik;Aktiv;;;Nein
+300222;Lieferant;Zenit Logistik GmbH;Aktiv;;;Nein
+300223;Lieferant;BoreasMontage GmbH;Aktiv;;;Nein
+300224;Lieferant;Castor Estrichbau;Aktiv;;;Nein
+300225;Lieferant;Octans Reinigungstechnik;Aktiv;;;Nein
+300226;Lieferant;OrionMaschinen AG & Co. KG;Aktiv;;;Nein
+300227;Lieferant;Vega Chemie GmbH;Aktiv;;;Nein
+300228;Lieferant;WestDämmtechnik GmbH;Aktiv;;;Nein
+300230;Lieferant;Quarz Ziegel GmbH;Aktiv;;;Nein
+300231;Lieferant;Terra Gebäudetechnik;Aktiv;;;Nein
+300232;Lieferant;Primus Werkzeuge;Aktiv;;;Nein
+300235;Lieferant;QuarzBeton GmbH;Aktiv;;;Nein
+300236;Lieferant;SÜDBAUBEDARF GMBH;Aktiv;;;Nein
+300238;Lieferant;Lyra Gebäudereinigung;Aktiv;;;Nein
+300239;Lieferant;NordZiegel;Aktiv;;;Nein
+300241;Lieferant;QuarzDämmtechnik GmbH;Aktiv;;;Nein
+300246;Lieferant;AllgäuIndustriebedarf GmbH;Aktiv;;;Nein
+300247;Lieferant;Basalt Recycling;Aktiv;;;Nein
+300248;Lieferant;GranitSpedition;Aktiv;;;Nein
+300251;Lieferant;Nord Montage;Aktiv;;;Nein
+300252;Lieferant;MainEstrich GmbH;Aktiv;;;Nein
+300253;Lieferant;Atlas Metall;Aktiv;;;Nein
+300254;Lieferant;Allgäu Transport;Aktiv;;;Nein
+300255;Lieferant;Fokus Estrich GmbH;Aktiv;;;Nein
+300259;Lieferant;Boreas Systeme;Aktiv;;;Nein
+300265;Lieferant;Süd Folien AG;Aktiv;;;Nein
+300268;Lieferant;Rhein Werkzeuge;Aktiv;;;Nein
+300269;Lieferant;Vulkan Platten GmbH & Co. KG;Aktiv;;;Nein
+300271;Lieferant;Borealis Gebäudetechnik GmbH;Aktiv;;;Nein
+300276;Lieferant;Vega Trockenbau GmbH;Aktiv;;;Nein
+300280;Lieferant;ElbtalTrockenbau GmbH;Aktiv;;;Nein
+300281;Lieferant;Borealis Chemie;Aktiv;;;Nein
+300282;Lieferant;KlinkerBedachung GmbH;Aktiv;;;Nein
+300287;Lieferant;Solid Profile;Aktiv;;;Nein
+300292;Lieferant;POLLUX STAHLBAU GmbH & Co.KG;Aktiv;;;Nein
+300293;Lieferant;OrionBedachung GmbH;Aktiv;;;Nein
+300294;Lieferant;NovaPlatten GmbH;Aktiv;;;Nein
+300296;Lieferant;Granit Anlagenbau GmbH & Co. KG;Aktiv;;;Nein
+300298;Lieferant;SOLIDPLATTEN GMBH;Aktiv;;;Nein
+300303;Lieferant;Vega Folien eK;Aktiv;;;Nein
+300309;Lieferant;VulkanBau;Aktiv;;;Nein
+300310;Lieferant;Süd Spedition GmbH;Aktiv;;;Nein
+300313;Lieferant;BasaltTrockenbau GbR;Aktiv;;;Nein
+300314;Lieferant;Rhein Bau;Aktiv;;;Nein
+300316;Lieferant;Hanse Platten GmbH;Aktiv;;;Nein
+300319;Lieferant;Fokus Technik GmbH;Aktiv;;;Nein
+300325;Lieferant;Terra Profile;Aktiv;;;Nein
+300326;Lieferant;AtlasIndustriebedarf mbH;Aktiv;;;Nein
+300328;Lieferant;Nova Anlagenbau GmbH;Aktiv;;;Nein
+300331;Lieferant;AllgäuTrockenbau GmbH;Aktiv;;;Nein
+300332;Lieferant;BasaltIndustriebedarf;Aktiv;;;Nein
+300335;Lieferant;Robur Recycling GmbH;Aktiv;;;Nein
+300339;Lieferant;OrionPlatten GmbH & Co. KG;Aktiv;;;Nein
+300340;Lieferant;QuarzGebäudetechnik AG;Aktiv;;;Nein
+300346;Lieferant;KorundHochbau;Aktiv;;;Nein
+300347;Lieferant;Vega Tiefbau GmbH & Co. KG;Aktiv;;;Nein
+300350;Lieferant;Borealis Profile SE;Aktiv;;;Nein
+300351;Lieferant;PolarisTiefbau SE;Aktiv;;;Nein
+300352;Lieferant;MAIN VERPACKUNG;Aktiv;;;Nein
+300353;Lieferant;AlpenPaneele GmbH;Aktiv;;;Nein
+300354;Lieferant;Robur Dämmtechnik GmbH & Co KG;Aktiv;;;Nein
+300356;Lieferant;PolarisHochbau OHG;Aktiv;;;Nein
+300360;Lieferant;Granit Elektro KG;Aktiv;;;Nein
+300362;Lieferant;VULKAN RECYCLING GMBH;Aktiv;;;Nein
+300365;Lieferant;RoburBaustoffe;Aktiv;;;Nein
+300367;Lieferant;AllgäuHandel GmbH;Aktiv;;;Nein
+300371;Lieferant;AtlasProfile;Aktiv;;;Nein
+300373;Lieferant;Delta Baubedarf GmbH;Aktiv;;;Nein
+300374;Lieferant;Hanse Paneele GmbH;Aktiv;;;Nein
+300375;Lieferant;QUARZ MASCHINEN GMBH;Aktiv;;;Nein
+300377;Lieferant;Klinker Paneele GmbH;Aktiv;;;Nein
+300382;Lieferant;Klinker Bedachung;Aktiv;;;Nein
+300383;Lieferant;Silva Kunststoffe;Aktiv;;;Nein
+300385;Lieferant;Vulkan Maschinen mbH;Aktiv;;;Nein
+300388;Lieferant;RoburTechnik GmbH;Aktiv;;;Nein
+300390;Lieferant;AtlasElektro;Aktiv;;;Nein
+300393;Lieferant;MainEstrich;Aktiv;;;Nein
+300396;Lieferant;Solid Recycling GmbH;Aktiv;;;Nein
+300397;Lieferant;AllgäuFolien AG;Aktiv;;;Nein
+300399;Lieferant;VulkanBaustoffe GmbH;Aktiv;;;Nein
+300406;Lieferant;Orion Baubedarf GmbH & Co KG;Aktiv;;;Nein
+300410;Lieferant;ElbtalChemie;Aktiv;;;Nein
+300411;Lieferant;PrismaMetall GmbH;Aktiv;;;Nein
+300416;Lieferant;Fokus Energie;Aktiv;;;Nein
+300418;Lieferant;Main Verpackung GmbH;Aktiv;;;Nein
+300420;Lieferant;Primus Estrich GmbH;Aktiv;;;Nein
+300422;Lieferant;KompaktHandel GmbH;Aktiv;;;Nein
+300425;Lieferant;NordBaustoffe GmbH & Co. KG;Aktiv;;;Nein
+300427;Lieferant;Betriebshof Musterstadt;Aktiv;;;Nein
+300429;Lieferant;Elbtal Bedachung GmbH & Co. KG;Aktiv;;;Nein
+300434;Lieferant;Alpen Systeme GmbH;Aktiv;;;Nein
+300435;Lieferant;Primus Bedachung GmbH;Aktiv;;;Nein
+300445;Lieferant;Alpen Energie;Aktiv;;;Nein
+300449;Lieferant;Wirtschaftsinitiative Westregion e.V.;Aktiv;;;Nein
+300451;Lieferant;Korund Bau;Aktiv;;;Nein
+300453;Lieferant;BasaltBaustoffe GmbH;Aktiv;;;Nein
+300458;Lieferant;Silva Estrich AG;Zur Loeschung markiert;;18.03.2024;Nein
+300459;Lieferant;Hanse Profile GmbH & Co. KG;Aktiv;;;Nein
+300460;Lieferant;Primus Kunststoffe GmbH & Co. KG;Aktiv;;;Nein
+300461;Lieferant;Korund Trockenbau GmbH;Aktiv;;;Nein
+300463;Lieferant;PrismaKunststoffe GmbH & Co. KG;Aktiv;;;Nein
+300464;Lieferant;Atlas Handel GmbH;Aktiv;;;Nein
+300476;Lieferant;Nord Werkzeuge GmbH & Co. KG;Aktiv;;;Nein
+300481;Lieferant;VegaBaustoffe sp. z o.o.;Aktiv;;;Nein
+300483;Lieferant;Korund Handel GmbH;Aktiv;;;Nein
+300486;Lieferant;BBZ Berufsbildungszentrum Musterland GmbH;Aktiv;;;Nein
+300488;Lieferant;VegaBedachung GmbH;Aktiv;;;Nein
+300490;Lieferant;RoburBaubedarf GmbH;Aktiv;;;Nein
+300493;Lieferant;Borealis Elektro;Aktiv;;;Nein
+300497;Lieferant;Cygnus Malerbetrieb;Aktiv;;;Nein
+300500;Lieferant;Granit Montage e.K.;Aktiv;;;Nein
+300504;Lieferant;Delta Handel;Aktiv;;;Nein
+300508;Lieferant;DeltaTransport e.V.;Aktiv;;;Nein
+300513;Lieferant;Allgäu Hochbau;Aktiv;;;Nein
+300516;Lieferant;Kompakt Isoliertechnik GmbH;Aktiv;;;Nein
+300517;Lieferant;Draco Dichtungstechnik GmbH;Aktiv;;;Nein
+300518;Lieferant;Talus Platten KG;Aktiv;;;Nein
+300520;Lieferant;Primus Elektro;Aktiv;;;Nein
+300522;Lieferant;Nova Platten e.V.;Aktiv;;;Nein
+300524;Lieferant;PolarisElektro GmbH;Aktiv;;;Nein
+300528;Lieferant;KLINKER BETON SE;Aktiv;;;Nein
+300530;Lieferant;WestGerüstbau GmbH;Aktiv;;;Nein
+300532;Lieferant;TerraPlatten GmbH;Aktiv;;;Nein
+300538;Lieferant;TaunusBaubedarf GmbH;Aktiv;;;Nein
+300539;Lieferant;Terra Folien AG & Co. KG;Aktiv;;;Nein
+300544;Lieferant;OstTechnik;Aktiv;;;Nein
+300545;Lieferant;HARZ HOCHBAU;Aktiv;;;Nein
+300546;Lieferant;RoburBeton;Gesperrt;14.05.2024;;Nein
+300556;Lieferant;Süd Paneele GmbH;Aktiv;;;Nein
+300557;Lieferant;WeserAnlagenbau GmbH;Aktiv;;;Nein
+300559;Lieferant;Nova Baustoffe GmbH & Co. KG;Aktiv;;;Nein
+300560;Lieferant;ALLGÄUHOCHBAU AG;Aktiv;;;Nein
+300564;Lieferant;Fokus Technik GmbH & Co. KG;Aktiv;;;Nein
+300565;Lieferant;Vega Energie GmbH & Co. KG;Aktiv;;;Nein
+300567;Lieferant;Silva Beton GmbH;Aktiv;;;Nein
+300568;Lieferant;MainTransport GmbH;Aktiv;;;Nein
+300573;Lieferant;Main Recycling;Aktiv;;;Nein
+300574;Lieferant;Alpen Recycling;Aktiv;;;Nein
+300577;Lieferant;HARZ ELEKTRO Baumarkt BHWM GmbH & Co. Musterstadt KG;Aktiv;;;Nein
+300578;Lieferant;HARZ FOLIEN GMBH;Aktiv;;;Nein
+300580;Lieferant;Primus Folien;Aktiv;;;Nein
+300589;Lieferant;Weser Gerüstbau GmbH;Aktiv;;;Nein
+300591;Lieferant;MainSysteme;Aktiv;;;Nein
+300596;Lieferant;ArgusEnergie GmbH;Aktiv;;;Nein
+300600;Lieferant;FokusEstrich GmbH;Aktiv;;;Nein
+300602;Lieferant;Argus Baustoffe GmbH;Aktiv;;;Nein
+300604;Lieferant;Vega Folien GmbH;Aktiv;;;Nein
+300605;Lieferant;Talus Hochbau GmbH;Aktiv;;;Nein
+300607;Lieferant;Vulkan Handel GmbH;Aktiv;;;Nein
+300609;Lieferant;VEGA ESTRICH E.V.;Aktiv;;;Nein
+300610;Lieferant;Taunus Handel GmbH;Aktiv;;;Nein
+300619;Lieferant;Argus Maschinen GmbH & Co. KG;Aktiv;;;Nein
+300627;Lieferant;Zenit Industriebedarf;Aktiv;;;Nein
+300633;Lieferant;Robur Estrich GmbH;Aktiv;;;Nein
+300636;Lieferant;Klinker Gerüstbau GmbH;Aktiv;;;Nein
+300640;Lieferant;Klinker Kunststoffe GmbH;Aktiv;;;Nein
+300642;Lieferant;Silva Chemie;Aktiv;;;Nein
+300644;Lieferant;Vulkan Spedition GmbH & Co. KG;Aktiv;;;Nein
+300650;Lieferant;Sculptor Bauservice GmbH & Co. KG;Aktiv;;;Nein
+300651;Lieferant;Ceres Platten GmbH;Aktiv;;;Nein
+300655;Lieferant;Boreas Spedition;Aktiv;;;Nein
+300665;Lieferant;Taunus Spedition;Aktiv;;;Nein
+300666;Lieferant;Ceres Kunststoffe GmbH;Aktiv;;;Nein
+300675;Lieferant;Nova Gebäudetechnik GmbH;Aktiv;;;Nein
+300678;Lieferant;AlpenKunststoffe;Aktiv;;;Nein
+300680;Lieferant;WeserMaschinen GmbH;Aktiv;;;Nein
+300681;Lieferant;Kompakt Profile e.V.;Aktiv;;;Nein
+300682;Lieferant;Kompakt Baustoffe GmbH;Aktiv;;;Nein
+300683;Lieferant;Vulkan Profile AG;Aktiv;;;Nein
+300685;Lieferant;RheinDämmtechnik GmbH;Aktiv;;;Nein
+300687;Lieferant;Harz Transport GmbH;Gesperrt;09.06.2024;;Nein
+300691;Lieferant;BorealisHandel AG;Aktiv;;;Nein
+300692;Lieferant;WeserIndustriebedarf;Aktiv;;;Nein
+300700;Lieferant;AllgäuDämmtechnik GmbH & Co.KG;Aktiv;;;Nein
+300703;Lieferant;Delta Elektro;Aktiv;;;Nein
+300707;Lieferant;WestTiefbau GmbH;Aktiv;;;Nein
+300711;Lieferant;Weser Bedachung GmbH;Aktiv;;;Nein
+300713;Lieferant;AlpenLogistik GmbH;Aktiv;;;Nein
+300715;Lieferant;Perseus Fassadentechnik GmbH & Co.KG;Aktiv;;;Nein
+300720;Lieferant;AlpenZiegel GmbH;Aktiv;;;Nein
+300727;Lieferant;Forma Logistik;Aktiv;;;Nein
+300730;Lieferant;NovaKunststoffe;Aktiv;;;Nein
+300734;Lieferant;Fornax Klimatechnik;Aktiv;;;Nein
+300736;Lieferant;Alpen Anlagenbau GmbH;Aktiv;;;Nein
+300742;Lieferant;ElbtalVerpackung GmbH;Aktiv;;;Nein
+300744;Lieferant;HanseBau GmbH;Aktiv;;;Nein
+300745;Lieferant;PolarisBau;Aktiv;;;Nein
+300746;Lieferant;NordDämmtechnik;Aktiv;;;Nein
+300749;Lieferant;WestTransport GmbH;Aktiv;;;Nein
+300751;Lieferant;Granit Trockenbau s.r.o.;Aktiv;;;Nein
+300754;Lieferant;Ingenieurbüro Dorado;Zur Loeschung markiert;;03.06.2024;Nein
+300756;Lieferant;AtlasSpedition GmbH & Co KG;Aktiv;;;Nein
+300764;Lieferant;Zenit Tiefbau s r.o.;Aktiv;;;Nein
+300766;Lieferant;PrimusProfile GmbH;Aktiv;;;Nein
+300767;Lieferant;PRIMUSISOLIERTECHNIK GMBH;Aktiv;;;Nein
+300772;Lieferant;WeserBeton GmbH;Aktiv;;;Nein
+300776;Lieferant;Allgäu Recycling GmbH;Aktiv;;;Nein
+300778;Lieferant;KorundMaschinen GmbH;Aktiv;;;Nein
+300781;Lieferant;FormaTrockenbau;Aktiv;;;Nein
+300783;Lieferant;FokusBaubedarf GmbH & Co. KG;Aktiv;;;Nein
+300792;Lieferant;Basalt Spedition;Aktiv;;;Nein
+300793;Lieferant;Ceres Logistik GmbH;Aktiv;;;Nein
+300797;Lieferant;Kompakt Systeme GmbH;Aktiv;;;Nein
+300799;Lieferant;VulkanFolien;Aktiv;;;Nein
+300800;Lieferant;Silva Verpackung GmbH;Aktiv;;;Nein
+300811;Lieferant;TaunusTrockenbau GmbH & Co. KG;Aktiv;;;Nein
+300813;Lieferant;ArgusIndustriebedarf GmbH & Co. KG;Aktiv;;;Nein
+300814;Lieferant;Hanse Paneele GmbH & Co. KG;Aktiv;;;Nein
+300819;Lieferant;SilvaTransport GmbH;Aktiv;;;Nein
+300822;Lieferant;Taunus Metall;Aktiv;;;Nein
+300823;Lieferant;OrionLogistik GmbH;Aktiv;;;Nein
+300824;Lieferant;Prisma Dämmtechnik;Aktiv;;;Nein
+300825;Lieferant;Rhein Handel;Aktiv;;;Nein
+300829;Lieferant;Nova Estrich;Gesperrt;07.04.2024;;Nein
+300830;Lieferant;TalusBau mbH;Aktiv;;;Nein
+300834;Lieferant;ElbtalWerkzeuge GmbH;Aktiv;;;Nein
+300835;Lieferant;DeltaTrockenbau;Gesperrt;04.10.2024;;Nein
+300842;Lieferant;Borealis Isoliertechnik;Aktiv;;;Nein
+300843;Lieferant;ElbtalAnlagenbau GmbH;Aktiv;;;Nein
+300847;Lieferant;Allgäu Elektro GmbH & Co. KG;Aktiv;;;Nein
+300850;Lieferant;ARGUS BAU GMBH & CO. KG;Aktiv;;;Nein
+300853;Lieferant;Boreas Gerüstbau GmbH;Aktiv;;;Nein
+300854;Lieferant;AlpenTiefbau GmbH;Aktiv;;;Nein
+300855;Lieferant;HanseWerkzeuge;Aktiv;;;Nein
+300856;Lieferant;Talberg Fenster 5. GmbH;Aktiv;;;Nein
+300857;Lieferant;Atlas Estrich GmbH;Aktiv;;;Nein
+300859;Lieferant;WeserFolien GmbH;Aktiv;;;Nein
+300860;Lieferant;Taunus Isoliertechnik GmbH;Aktiv;;;Nein
+300863;Lieferant;OstKunststoffe GmbH;Aktiv;;;Nein
+300866;Lieferant;VulkanPlatten GmbH & Co. KG;Aktiv;;;Nein
+300867;Lieferant;West Recycling;Aktiv;;;Nein
+300870;Lieferant;Weser Profile;Aktiv;;;Nein
+300876;Lieferant;HanseEnergie GmbH;Aktiv;;;Nein
+300878;Lieferant;TaunusAnlagenbau;Aktiv;;;Nein
+300879;Lieferant;PrismaPaneele GmbH & Co. KG;Aktiv;;;Nein
+300880;Lieferant;WestZiegel;Aktiv;;;Nein
+300881;Lieferant;Harz Energie GmbH;Aktiv;;;Nein
+300882;Lieferant;Primus Platten GmbH;Aktiv;;;Nein
+300883;Lieferant;SilvaBeton GmbH;Aktiv;;;Nein
+300884;Lieferant;Taunus Folien GmbH;Aktiv;;;Nein
+300888;Lieferant;Main Maschinen GmbH;Aktiv;;;Nein
+300895;Lieferant;Fokus Montage gmbh;Aktiv;;;Nein
+300896;Lieferant;SüdEstrich;Aktiv;;;Nein
+300902;Lieferant;Zenit Estrich GmbH;Aktiv;;;Nein
+300905;Lieferant;Ceres Dämmtechnik;Aktiv;;;Nein
+300910;Lieferant;Rhein Maschinen;Aktiv;;;Nein
+300920;Lieferant;POLARISMONTAGE GMBH;Aktiv;;;Nein
+300921;Lieferant;Ceres Bedachung;Aktiv;;;Nein
+300925;Lieferant;CeresKunststoffe GmbH;Aktiv;;;Nein
+300931;Lieferant;Solid Estrich GmbH;Aktiv;;;Nein
+300932;Lieferant;SilvaPaneele GmbH;Aktiv;;;Nein
+300933;Lieferant;DeltaMetall GmbH;Aktiv;;;Nein
+300937;Lieferant;Basalt Recycling DE;Aktiv;;;Nein
+300938;Lieferant;Hanse Anlagenbau GmbH;Aktiv;;;Nein
+300940;Lieferant;SilvaSysteme;Aktiv;;;Nein
+300942;Lieferant;PolarisEnergie GmbH;Aktiv;;;Nein
+300944;Lieferant;WeserIndustriebedarf GmbH;Aktiv;;;Nein
+300946;Lieferant;Alpen Metall GmbH & Co. KG;Aktiv;;;Nein
+300948;Lieferant;Robur Baubedarf GmbH & Co. KG;Aktiv;;;Nein
+300949;Lieferant;VulkanMontage gmbh;Aktiv;;;Nein
+300951;Lieferant;SOLID ELEKTRO AG;Aktiv;;;Nein
+300952;Lieferant;Borealis Baubedarf GmbH;Aktiv;;;Nein
+300953;Lieferant;WeserZiegel GmbH;Aktiv;;;Nein
+300955;Lieferant;HarzMaschinen OHG;Aktiv;;;Nein
+300961;Lieferant;VegaMaschinen GmbH & Co. KG;Aktiv;;;Nein
+300962;Lieferant;ElbtalMontage nv/sa;Aktiv;;;Nein
+300964;Lieferant;MainTransport;Aktiv;;;Nein
+300965;Lieferant;BoreasHochbau GmbH;Aktiv;;;Nein
+300966;Lieferant;Boreas Transport AG;Aktiv;;;Nein
+300974;Lieferant;BasaltBeton GmbH;Aktiv;;;Nein
+300975;Lieferant;TALUSBEDACHUNG GMBH;Aktiv;;;Nein
+300979;Lieferant;Harz Profile GmbH;Aktiv;;;Nein
+300980;Lieferant;MainSpedition GmbH;Aktiv;;;Nein
+300981;Lieferant;VulkanIndustriebedarf Sp. zo.o.;Aktiv;;;Nein
+300985;Lieferant;PrimusMaschinen e.V.;Aktiv;;;Nein
+300987;Lieferant;Basalt Bedachung;Aktiv;;;Nein
+300991;Lieferant;SolidMetall GmbH;Aktiv;;;Nein
+300992;Lieferant;OstEstrich GmbH;Aktiv;;;Nein
+300993;Lieferant;Solid Industriebedarf GmbH;Aktiv;;;Nein
+300994;Lieferant;TerraElektro GmbH;Aktiv;;;Nein
+300998;Lieferant;Kompakt Gebäudetechnik GmbH & Co. KG;Aktiv;;;Nein
+300999;Lieferant;Primus Beton GmbH;Aktiv;;;Nein
+301005;Lieferant;Silva Transport GmbH & Co. KG;Aktiv;;;Nein
+301006;Lieferant;OrionTiefbau GmbH;Aktiv;;;Nein
+301009;Lieferant;Rhein Recycling GmbH;Aktiv;;;Nein
+301014;Lieferant;Boreas Baustoffe GmbH;Aktiv;;;Nein
+301017;Lieferant;VulkanPlatten GmbH;Aktiv;;;Nein
+301018;Lieferant;BoreasPlatten GmbH;Aktiv;;;Nein
+301019;Lieferant;Atlas Anlagenbau ApS;Aktiv;;;Nein
+301022;Lieferant;WestTechnik GmbH;Aktiv;;;Nein
+301026;Lieferant;Polaris Maschinen GmbH;Aktiv;;;Nein
+301029;Lieferant;FormaEstrich KG;Aktiv;;;Nein
+301031;Lieferant;Quarz Beton GmbH;Aktiv;;;Nein
+301033;Lieferant;KlinkerRecycling GmbH;Aktiv;;;Nein
+301036;Lieferant;Nova Tiefbau;Aktiv;;;Nein
+301038;Lieferant;Prisma Beton;Aktiv;;;Nein
+301039;Lieferant;RheinMaschinen GmbH;Aktiv;;;Nein
+301040;Lieferant;Zenit Verpackung GmbH & Co. KG;Aktiv;;;Nein
+301042;Lieferant;WeserEstrich GmbH;Aktiv;;;Nein
+301044;Lieferant;Vulkan Metall GmbH & Co. KG;Aktiv;;;Nein
+301048;Lieferant;NovaProfile GmbH & Co. KG;Aktiv;;;Nein
+301049;Lieferant;QUARZSYSTEME GMBH;Aktiv;;;Nein
+301051;Lieferant;Allgäu Verpackung GmbH;Aktiv;;;Nein
+301052;Lieferant;Nova Handel;Aktiv;;;Nein
+301056;Lieferant;Granit Systeme GmbH;Aktiv;;;Nein
+301061;Lieferant;Kanzlei Antares Rechtsanwälte;Aktiv;;;Nein
+301062;Lieferant;Allgäu Beton GmbH;Aktiv;;;Nein
+301064;Lieferant;Delta Verpackung GmbH;Aktiv;;;Nein
+301065;Lieferant;Elbtal Elektro GmbH & Co. KG;Aktiv;;;Nein
+301066;Lieferant;VulkanProfile GmbH;Aktiv;;;Nein
+301067;Lieferant;Harz Bau GmbH;Aktiv;;;Nein
+301068;Lieferant;TalusSysteme GmbH;Aktiv;;;Nein
+301070;Lieferant;Vega Baubedarf GmbH;Aktiv;;;Nein
+301071;Lieferant;Zenit Metall GmbH;Aktiv;;;Nein
+301072;Lieferant;SolidMaschinen e.K.;Aktiv;;;Nein
+301073;Lieferant;Granit Profile GmbH;Aktiv;;;Nein
+301074;Lieferant;Harz Bedachung;Aktiv;;;Nein
+301075;Lieferant;TalusZiegel;Aktiv;;;Nein
+301077;Lieferant;BASALT SYSTEME GMBH;Aktiv;;;Nein
+301078;Lieferant;Robur Handel GmbH;Aktiv;;;Nein
+301081;Lieferant;Allgäu Paneele;Aktiv;;;Nein
+301083;Lieferant;TaunusPaneele GmbH;Aktiv;;;Nein
+301084;Lieferant;Vega Folien;Aktiv;;;Nein
+301085;Lieferant;BasaltTiefbau GmbH;Aktiv;;;Nein
+301086;Lieferant;NordDämmtechnik GmbH & Co. KG;Aktiv;;;Nein
+301087;Lieferant;Primus Montage UG;Aktiv;;;Nein
+301088;Lieferant;Primus Isoliertechnik;Aktiv;;;Nein
+301089;Lieferant;Talus Beton;Aktiv;;;Nein
+301090;Lieferant;DELTA ISOLIERTECHNIK GMBH;Aktiv;;;Nein
+301091;Lieferant;Sirius Prüftechnik GmbH;Aktiv;;;Nein
+301092;Lieferant;PRISMABAUSTOFFE GMBH;Aktiv;;;Nein
+301094;Lieferant;Nord Beton GmbH;Aktiv;;;Nein
+301095;Lieferant;SüdHochbau GmbH;Aktiv;;;Nein
+301096;Lieferant;NovaEstrich GmbH & Co. KG;Aktiv;;;Nein
+301097;Lieferant;MAIN PANEELE GMBH;Aktiv;;;Nein
+301098;Lieferant;HanseAnlagenbau GmbH;Aktiv;;;Nein
+301099;Lieferant;DeltaMontage GmbH;Aktiv;;;Nein
+301100;Lieferant;NovaChemie GmbH;Aktiv;;;Nein
+301102;Lieferant;BasaltPlatten GmbH;Aktiv;;;Nein
+301103;Lieferant;RheinTransport GmbH;Aktiv;;;Nein
+301105;Lieferant;Orion Anlagenbau GmbH;Aktiv;;;Nein
+301106;Lieferant;AlpenMaschinen;Aktiv;;;Nein
+301110;Lieferant;AlpenBedachung GmbH;Aktiv;;;Nein
+301111;Lieferant;OstFolien;Aktiv;;;Nein
+301112;Lieferant;Elbtal Anlagenbau GmbH;Aktiv;;;Nein
+301113;Lieferant;Nord Gebäudetechnik GmbH & Co. KG;Aktiv;;;Nein
+301117;Lieferant;Atlas Bau GmbH;Aktiv;;;Nein
+301118;Lieferant;ArgusWerkzeuge;Aktiv;;;Nein
+301120;Lieferant;ArgusBau;Aktiv;;;Nein
+301122;Lieferant;Hanse Energie GmbH;Aktiv;;;Nein
+301123;Lieferant;Robur Hochbau GmbH;Aktiv;;;Nein
+301124;Lieferant;Hanse Handel GmbH & Co. KG;Aktiv;;;Nein
+301125;Lieferant;Polaris Montage GmbH;Aktiv;;;Nein
+301126;Lieferant;Primus Gebäudetechnik GmbH;Aktiv;;;Nein
+301127;Lieferant;Kompakt Beton;Aktiv;;;Nein
+301128;Lieferant;CeresTransport;Aktiv;;;Nein
+301129;Lieferant;Boreas Folien GmbH;Aktiv;;;Nein
+301130;Lieferant;BoreasVerpackung AG;Aktiv;;;Nein
+301131;Lieferant;Fokus Tiefbau GmbH;Aktiv;;;Nein
+301132;Lieferant;WeserTrockenbau GmbH & Co. KG;Aktiv;;;Nein
+301133;Lieferant;ORIONMONTAGE GMBH;Aktiv;;;Nein
+301135;Lieferant;Süd Elektro;Aktiv;;;Nein
+301136;Lieferant;Taunus Paneele GmbH & Co KG;Aktiv;;;Nein
+301137;Lieferant;Klinker Logistik GmbH;Aktiv;;;Nein
+301138;Lieferant;WeserBaustoffe GmbH;Aktiv;;;Nein
+301139;Lieferant;KompaktAnlagenbau GmbH;Aktiv;;;Nein
+301140;Lieferant;Korund Hochbau GmbH;Aktiv;;;Nein
+301144;Lieferant;OrionChemie GmbH;Aktiv;;;Nein
+301145;Lieferant;Silva Chemie GmbH;Aktiv;;;Nein
+301146;Lieferant;Kompakt Profile;Aktiv;;;Nein
+301147;Lieferant;DeltaTiefbau GmbH;Aktiv;;;Nein
+301149;Lieferant;Silva Verpackung GmbH & Co. KG;Aktiv;;;Nein
+301151;Lieferant;SilvaKunststoffe;Aktiv;;;Nein
+301152;Lieferant;PrimusSysteme GmbH;Aktiv;;;Nein
+301153;Lieferant;TaunusMetall;Aktiv;;;Nein
+301154;Lieferant;Polaris Werkzeuge GmbH;Aktiv;;;Nein
+301155;Lieferant;Taunus Paneele GmbH;Aktiv;;;Nein
+301158;Lieferant;Orion Estrich GmbH;Aktiv;;;Nein
+301159;Lieferant;PrimusBau;Aktiv;;;Nein
+301160;Lieferant;PrismaElektro GmbH;Aktiv;;;Nein
+301161;Lieferant;GRANIT ENERGIE SE;Aktiv;;;Nein
+301162;Lieferant;RoburTrockenbau;Aktiv;;;Nein
+301163;Lieferant;NordTiefbau GmbH;Aktiv;;;Nein
+301164;Lieferant;BorealisEstrich GmbH & Co. KG;Aktiv;;;Nein
+301165;Lieferant;Terra Handel GmbH;Aktiv;;;Nein
+301166;Lieferant;CeresDämmtechnik GmbH;Aktiv;;;Nein
+301167;Lieferant;SüdMontage GmbH & Co. KG;Aktiv;;;Nein
+301168;Lieferant;Borealis Logistik GmbH & Co. KG;Aktiv;;;Nein
+301169;Lieferant;NordBau GmbH;Aktiv;;;Nein
+301170;Lieferant;ArgusZiegel GmbH;Aktiv;;;Nein
+301171;Lieferant;ELBTAL WERKZEUGE GMBH;Aktiv;;;Nein
+301172;Lieferant;Argus Handel;Zur Loeschung markiert;;19.07.2024;Nein
+301173;Lieferant;FormaChemie;Aktiv;;;Nein
+301174;Lieferant;Forma Isoliertechnik GmbH;Aktiv;;;Nein
+301175;Lieferant;SolidGerüstbau GmbH;Aktiv;;;Nein
+301176;Lieferant;Basalt Recycling GmbH;Aktiv;;;Nein
+301178;Lieferant;Rhein Gerüstbau;Aktiv;;;Nein
+301179;Lieferant;Main Bedachung GmbH;Aktiv;;;Nein
+301180;Lieferant;Ceres Spedition;Aktiv;;;Nein
+301181;Lieferant;ZenitVerpackung GmbH;Aktiv;;;Nein
+301182;Lieferant;Primus Bau GmbH;Aktiv;;;Nein
+301183;Lieferant;West Technik GbR;Aktiv;;;Nein
+301184;Lieferant;TalusZiegel GmbH & Co. KG;Aktiv;;;Nein
+301185;Lieferant;Forma Kunststoffe GmbH;Aktiv;;;Nein
+301186;Lieferant;OstKunststoffe;Aktiv;;;Nein
+301187;Lieferant;Wasser- und Bodenverband Musterland;Aktiv;;;Nein
+301189;Lieferant;VEGAGEBÄUDETECHNIK;Aktiv;;;Nein
+301190;Lieferant;Terra Anlagenbau GmbH;Aktiv;;;Nein
+301191;Lieferant;FokusHandel OHG;Aktiv;;;Nein
+301192;Lieferant;Forma Logistik OHG;Aktiv;;;Nein
+301193;Lieferant;Nord Baubedarf GmbH;Aktiv;;;Nein
+301194;Lieferant;Weser Anlagenbau GmbH;Aktiv;;;Nein
+301195;Lieferant;ZenitBau GmbH;Aktiv;;;Nein
+301196;Lieferant;ELBTALMASCHINEN GMBH;Aktiv;;;Nein
+301197;Lieferant;Caelum Bauelemente GmbH;Aktiv;;;Nein
+301198;Lieferant;RheinPlatten GmbH;Aktiv;;;Nein
+301200;Lieferant;Allgäu Anlagenbau GmbH;Aktiv;;;Nein
+301201;Lieferant;BasaltTransport GmbH & Co. KG;Aktiv;;;Nein
+301202;Lieferant;Robur Ziegel GmbH;Aktiv;;;Nein
+301203;Lieferant;Kanzlei Meridian Rechtsanwälte;Aktiv;;;Nein
+301204;Lieferant;Alpen Elektro GmbH;Aktiv;;;Nein
+301205;Lieferant;Argus Systeme GmbH;Aktiv;;;Nein
+301206;Lieferant;Nord Gebäudetechnik GmbH;Aktiv;;;Nein
+301207;Lieferant;VulkanEnergie GmbH;Aktiv;;;Nein
+301208;Lieferant;VulkanAnlagenbau GmbH & Co. KG;Aktiv;;;Nein
+301209;Lieferant;BOREASZIEGEL GMBH;Aktiv;;;Nein
+301210;Lieferant;Harz Elektro e.V.;Aktiv;;;Nein
+301211;Lieferant;ElbtalBaustoffe GmbH;Aktiv;;;Nein
+301212;Lieferant;FokusAnlagenbau;Aktiv;;;Nein
+301213;Lieferant;Robur Montage;Aktiv;;;Nein
+301214;Lieferant;MAINCHEMIE;Aktiv;;;Nein
+301215;Lieferant;Nord Verpackung;Aktiv;;;Nein
+301216;Lieferant;Granit Chemie;Aktiv;;;Nein
+301217;Lieferant;Allgäu Handel gmbh;Aktiv;;;Nein
+301218;Lieferant;KlinkerLogistik GmbH;Aktiv;;;Nein
+301219;Lieferant;Allgäu Systeme;Aktiv;;;Nein
+301220;Lieferant;Argus Logistik GmbH;Aktiv;;;Nein
+301221;Lieferant;HarzElektro GmbH;Aktiv;;;Nein
+301222;Lieferant;RheinBaustoffe GmbH;Aktiv;;;Nein
+301223;Lieferant;ZenitPlatten;Aktiv;;;Nein
+301224;Lieferant;ALPEN BAUBEDARF GMBH;Aktiv;;;Nein
+301225;Lieferant;NordIndustriebedarf GmbH;Aktiv;;;Nein
+301226;Lieferant;Elbtal Montage;Aktiv;;;Nein
+301227;Lieferant;BasaltElektro GmbH;Aktiv;;;Nein
+301228;Lieferant;PrismaProfile GmbH;Aktiv;;;Nein
+301229;Lieferant;Atlas Dämmtechnik GmbH;Aktiv;;;Nein
+301230;Lieferant;Vela Fördertechnik GmbH & Co. KG;Aktiv;;;Nein
+301231;Lieferant;PrismaLogistik;Aktiv;;;Nein
+301232;Lieferant;Solid Gerüstbau GmbH;Aktiv;;;Nein
+301233;Lieferant;Bootes Tiefbau;Aktiv;;;Nein
+301234;Lieferant;Weser Maschinen GmbH;Aktiv;;;Nein
+301235;Lieferant;OrionBeton;Aktiv;;;Nein
+301237;Lieferant;BOREASPANEELE GMBH;Aktiv;;;Nein
+301238;Lieferant;Weser Profile SRL;Aktiv;;;Nein
+301239;Lieferant;WestMaschinen;Aktiv;;;Nein
+301240;Lieferant;Kompakt Profile GmbH;Aktiv;;;Nein
+301241;Lieferant;Forma Recycling GmbH;Aktiv;;;Nein
+301242;Lieferant;KlinkerRecycling B.V.;Aktiv;;;Nein
+301245;Lieferant;OrionTrockenbau GmbH;Aktiv;;;Nein
+301246;Lieferant;AtlasElektro GmbH;Aktiv;;;Nein
+301247;Lieferant;OstPlatten GmbH;Aktiv;;;Nein
+301248;Lieferant;Granit Platten S.A.;Aktiv;;;Nein
+301249;Lieferant;HARZ PANEELE E. V.;Aktiv;;;Nein
+301250;Lieferant;OstWerkzeuge;Aktiv;;;Nein
+301251;Lieferant;PrismaBaustoffe S.A.;Aktiv;;;Nein
+301252;Lieferant;Beispiel Nordic ApS;Aktiv;;;Nein
+301253;Lieferant;AllgäuPaneele GmbH;Aktiv;;;Nein
+301254;Lieferant;BasaltPaneele GmbH;Aktiv;;;Nein
+301255;Lieferant;Vulkan Spedition KG;Aktiv;;;Nein
+301256;Lieferant;RheinTrockenbau;Aktiv;;;Nein
+301257;Lieferant;FormaHandel;Aktiv;;;Nein
+301258;Lieferant;Harz Werkzeuge;Aktiv;;;Nein
+301259;Lieferant;NordBeton Gmbh;Aktiv;;;Nein
+301260;Lieferant;RheinSysteme;Aktiv;;;Nein
+301261;Lieferant;Robur Kunststoffe GmbH;Aktiv;;;Nein
+301262;Lieferant;CeresIsoliertechnik e.K.;Aktiv;;;Nein
+301263;Lieferant;GranitBaubedarf e.K.;Aktiv;;;Nein
+301264;Lieferant;TerraBau e.V.;Aktiv;;;Nein
+301265;Lieferant;SilvaVerpackung GmbH & Co. KG;Aktiv;;;Nein
+301266;Lieferant;Elbtal Baubedarf OHG;Aktiv;;;Nein
+301267;Lieferant;Nova Baubedarf;Aktiv;;;Nein
+301268;Lieferant;NORDBEDACHUNG S.A.;Aktiv;;;Nein
+301270;Lieferant;ORION RECYCLING GMBH;Aktiv;;;Nein
+301271;Lieferant;CeresTechnik GmbH;Aktiv;;;Nein
+301272;Lieferant;Rhein Profile GmbH & Co. KG;Aktiv;;;Nein
+301273;Lieferant;MainZiegel;Aktiv;;;Nein
+301274;Lieferant;Korund Handel AG;Aktiv;;;Nein
+301275;Lieferant;FormaIndustriebedarf GmbH;Aktiv;;;Nein
+301276;Lieferant;PrismaHochbau a.s.;Aktiv;;;Nein
+301278;Lieferant;Klinker Ziegel S r.o.;Aktiv;;;Nein
+301279;Lieferant;Alpen Recycling GmbH;Aktiv;;;Nein
+301280;Lieferant;Polaris Verpackung GmbH & Co. KG;Aktiv;;;Nein
+301281;Lieferant;SolidChemie GmbH;Aktiv;;;Nein
+301282;Lieferant;Allgäu Ziegel GmbH;Aktiv;;;Nein
+301283;Lieferant;Fokus Chemie GmbH;Aktiv;;;Nein
+301284;Lieferant;SilvaBeton GmbH;Aktiv;;;Nein
+301285;Lieferant;GranitEstrich;Aktiv;;;Nein
+301286;Lieferant;Nova Estrich GmbH;Aktiv;;;Nein
+301287;Lieferant;HarzIsoliertechnik;Aktiv;;;Nein
+301288;Lieferant;Korund Bedachung;Aktiv;;;Nein
+301289;Lieferant;NordTechnik GmbH;Aktiv;;;Nein
+301290;Lieferant;FOKUS TROCKENBAU GMBH;Aktiv;;;Nein
+301292;Lieferant;Nord Baubedarf;Aktiv;;;Nein
+301293;Lieferant;Argus Paneele GmbH;Aktiv;;;Nein
+301294;Lieferant;GranitFolien GmbH & Co. KG;Aktiv;;;Nein
+301295;Lieferant;Vega Bedachung;Aktiv;;;Nein
+301296;Lieferant;TaunusProfile;Aktiv;;;Nein
+301297;Lieferant;VEGATROCKENBAU GMBH;Aktiv;;;Nein
+301298;Lieferant;TaunusMaschinen GbR;Aktiv;;;Nein
+301299;Lieferant;NORD ENERGIE GMBH;Aktiv;;;Nein
+301300;Lieferant;Klinker Recycling;Aktiv;;;Nein
+301301;Lieferant;ZenitIsoliertechnik;Aktiv;;;Nein
+301302;Lieferant;BasaltEstrich KG;Aktiv;;;Nein
+301303;Lieferant;Harz Montage;Aktiv;;;Nein
+301304;Lieferant;HanseTiefbau GmbH;Aktiv;;;Nein
+301305;Lieferant;BorealisGebäudetechnik AG;Aktiv;;;Nein
+301306;Lieferant;PrimusGerüstbau GmbH & Co. KG;Aktiv;;;Nein
+301307;Lieferant;Ceres Platten;Aktiv;;;Nein
+301308;Lieferant;BorealisSysteme GmbH;Aktiv;;;Nein
+301309;Lieferant;Quarz Profile GmbH;Aktiv;;;Nein
+301310;Lieferant;Harz Platten GmbH;Aktiv;;;Nein
+301311;Lieferant;Korund Systeme GmbH & Co. KG;Aktiv;;;Nein
+301313;Lieferant;Robur Handel;Aktiv;;;Nein
+301314;Lieferant;Basalt Montage GmbH;Aktiv;;;Nein
+301315;Lieferant;GranitWerkzeuge GmbH & Co. KG;Aktiv;;;Nein
+301316;Lieferant;NordAnlagenbau GmbH;Aktiv;;;Nein
+301317;Lieferant;Pavo Elektrotechnik;Aktiv;;;Nein
+301318;Lieferant;Harz Isoliertechnik;Aktiv;;;Nein
+301319;Lieferant;Terra Energie;Aktiv;;;Nein
+301320;Lieferant;Nord Dämmtechnik GmbH;Aktiv;;;Nein
+301321;Lieferant;NordMaschinen GmbH;Aktiv;;;Nein
+301322;Lieferant;Boreas Metall GmbH;Aktiv;;;Nein
+301323;Lieferant;Alpen Beton;Aktiv;;;Nein
+301324;Lieferant;TalusGebäudetechnik GmbH;Aktiv;;;Nein
+301325;Lieferant;Delta Ziegel UG;Aktiv;;;Nein
+301326;Lieferant;Ceres Gebäudetechnik GmbH;Aktiv;;;Nein
+301327;Lieferant;Rhein Folien GmbH;Aktiv;;;Nein
+301328;Lieferant;VegaSpedition GmbH & Co. KG;Aktiv;;;Nein
+301329;Lieferant;Delta Metall GmbH & Co. KG;Aktiv;;;Nein
+301330;Lieferant;FokusHochbau AG;Aktiv;;;Nein
+301331;Lieferant;Nord Anlagenbau GmbH;Aktiv;;;Nein
+301332;Lieferant;FormaSpedition;Aktiv;;;Nein
+301333;Lieferant;VegaEnergie GmbH;Aktiv;;;Nein
+301334;Lieferant;FormaVerpackung;Aktiv;;;Nein
+301335;Lieferant;FormaEstrich GmbH & Co. KG;Aktiv;;;Nein
+301336;Lieferant;Elbtal Profile;Aktiv;;;Nein
+301337;Lieferant;OrionWerkzeuge GmbH;Aktiv;;;Nein
+301338;Lieferant;SolidBaubedarf GmbH;Aktiv;;;Nein
+301339;Lieferant;NovaTrockenbau;Aktiv;;;Nein
+301340;Lieferant;Vulkan Systeme GmbH;Aktiv;;;Nein
+301341;Lieferant;Technologie- und Gewerbezentrum Musterland GmbH;Aktiv;;;Nein
+301342;Lieferant;Hanse Transport GmbH;Aktiv;;;Nein
+301343;Lieferant;ZenitHochbau GmbH;Aktiv;;;Nein
+301344;Lieferant;SilvaLogistik GmbH & Co. KG;Aktiv;;;Nein
+301345;Lieferant;PrismaVerpackung GmbH;Aktiv;;;Nein
+301346;Lieferant;Primus Energie GmbH;Aktiv;;;Nein
+301347;Lieferant;VulkanIsoliertechnik;Aktiv;;;Nein
+301348;Lieferant;Lynx Isoliermaterial GmbH;Aktiv;;;Nein
+301349;Lieferant;RoburGerüstbau;Aktiv;;;Nein
+301350;Lieferant;Prisma Kunststoffe;Aktiv;;;Nein
+301351;Lieferant;SüdSpedition GmbH;Aktiv;;;Nein
+301352;Lieferant;Zenit Hochbau;Aktiv;;;Nein
+301353;Lieferant;Forma Estrich GmbH & Co. KG;Aktiv;;;Nein
+301354;Lieferant;VulkanHandel GmbH;Aktiv;;;Nein
+301355;Lieferant;OrionProfile;Aktiv;;;Nein
+301356;Lieferant;WEST ISOLIERTECHNIK;Aktiv;;;Nein
+301357;Lieferant;FokusTiefbau GmbH;Aktiv;;;Nein
+301359;Lieferant;ArgusBaustoffe GmbH;Aktiv;;;Nein
+301360;Lieferant;WESER ENERGIE S.R.L.;Aktiv;;;Nein
+301361;Lieferant;Delta Industriebedarf GmbH;Aktiv;;;Nein
+301362;Lieferant;Allgäu Hochbau GbR;Aktiv;;;Nein
+301363;Lieferant;MainBedachung GmbH;Aktiv;;;Nein
+301364;Lieferant;Weser Metall GmbH;Aktiv;;;Nein
+301365;Lieferant;BasaltBaustoffe;Aktiv;;;Nein
+301366;Lieferant;Boreas Handel KG;Aktiv;;;Nein
+301367;Lieferant;Quarz Profile;Aktiv;;;Nein
+301368;Lieferant;BoreasBaustoffe GmbH;Aktiv;;;Nein
+301369;Lieferant;KorundVerpackung;Aktiv;;;Nein
+301370;Lieferant;DeltaVerpackung;Aktiv;;;Nein
+301371;Lieferant;Vulkan Verpackung;Aktiv;;;Nein
+301372;Lieferant;SüdWerkzeuge GmbH;Aktiv;;;Nein
+301373;Lieferant;QuarzHochbau GmbH;Aktiv;;;Nein
+301374;Lieferant;Ingenieurbüro Tucana;Aktiv;;;Nein
+301375;Lieferant;Korund Metall GmbH & Co. KG;Aktiv;;;Nein
+301376;Lieferant;HarzEstrich;Aktiv;;;Nein
+301377;Lieferant;Fokus Gerüstbau GmbH;Aktiv;;;Nein
+301378;Lieferant;Zenit Platten;Aktiv;;;Nein
+301379;Lieferant;Granit Elektro GmbH;Aktiv;;;Nein
+301380;Lieferant;Forma Technik;Aktiv;;;Nein
+301381;Lieferant;Weser Transport GmbH;Aktiv;;;Nein
+301382;Lieferant;Silva Folien GmbH;Aktiv;;;Nein
+301383;Lieferant;BoreasEstrich GmbH;Aktiv;;;Nein
+301384;Lieferant;ArgusMetall GmbH & Co. KG;Aktiv;;;Nein
+301385;Lieferant;BorealisRecycling;Gesperrt;11.11.2024;;Nein
+301386;Lieferant;Kompakt Anlagenbau;Aktiv;;;Nein
+301387;Lieferant;PrismaMaschinen GmbH & Co. KG;Aktiv;;;Nein
+301388;Lieferant;PolarisHochbau;Aktiv;;;Nein
+301389;Lieferant;FokusPaneele GmbH;Aktiv;;;Nein
+301390;Lieferant;BoreasTiefbau GmbH;Aktiv;;;Nein
+301391;Lieferant;BasaltEnergie GmbH & Co. KG;Aktiv;;;Nein
+301392;Lieferant;SilvaMontage e.V.;Aktiv;;;Nein
+301393;Lieferant;OrionKunststoffe e.K.;Aktiv;;;Nein
+301394;Lieferant;RoburRecycling GmbH & Co. KG;Aktiv;;;Nein
+301395;Lieferant;HarzBedachung;Aktiv;;;Nein
+301396;Lieferant;Harz Chemie GmbH;Aktiv;;;Nein
+301397;Lieferant;Ceres Handel GmbH;Aktiv;;;Nein
+301398;Lieferant;KlinkerIndustriebedarf;Aktiv;;;Nein
+301399;Lieferant;Ingenieurbüro Lacerta;Aktiv;;;Nein
+301400;Lieferant;Prisma Bau;Aktiv;;;Nein
+301401;Lieferant;BEISPIEL CZ S R.O.;Aktiv;;;Nein
+301402;Lieferant;Ceres Bau GmbH;Aktiv;;;Nein
+301403;Lieferant;Ingenieurbüro Pictor;Aktiv;;;Nein
+301404;Lieferant;PrimusDämmtechnik GmbH & Co. KG;Aktiv;;;Nein
+301405;Lieferant;Nord Ziegel GmbH;Aktiv;;;Nein
+301406;Lieferant;Borealis Profile SE (Marketplace);Aktiv;;;Nein
+301407;Lieferant;WestGebäudetechnik GmbH;Aktiv;;;Nein
+301408;Lieferant;Süd Handel GmbH;Aktiv;;;Nein
+301409;Lieferant;Granit Paneele GmbH;Aktiv;;;Nein
+301410;Lieferant;Süd Energie SAS;Aktiv;;;Nein
+301411;Lieferant;MainElektro GmbH;Aktiv;;;Nein
+301412;Lieferant;SilvaGerüstbau;Aktiv;;;Nein
+301413;Lieferant;AllgäuVerpackung GmbH;Aktiv;;;Nein
+301415;Lieferant;CeresAnlagenbau GmbH;Aktiv;;;Nein
+301416;Lieferant;VulkanMaschinen e.V.;Aktiv;;;Nein
+301418;Lieferant;Kompakt Spedition;Aktiv;;;Nein
+301419;Lieferant;GranitBau GmbH;Zur Loeschung markiert;;20.02.2024;Nein
+301420;Lieferant;WESER PROFILE GMBH;Aktiv;;;Nein
+301421;Lieferant;Prisma Transport GmbH;Aktiv;;;Nein
+301422;Lieferant;Hanse Chemie GmbH;Aktiv;;;Nein
+301423;Lieferant;HANSE BAU AG;Aktiv;;;Nein
+301424;Lieferant;Elbtal Dämmtechnik GmbH;Aktiv;;;Nein
+301425;Lieferant;ArgusAnlagenbau GmbH;Aktiv;;;Nein
+301426;Lieferant;HARZBAUBEDARF GMBH;Aktiv;;;Nein
+301427;Lieferant;Ceres Verpackung GbR;Aktiv;;;Nein
+301428;Lieferant;WESERVERPACKUNG GMBH;Aktiv;;;Nein
+301429;Lieferant;Sextans Gebäudeservice;Aktiv;;;Nein
+301430;Lieferant;Main Montage GmbH;Aktiv;;;Nein
+301431;Lieferant;Forma Industriebedarf GmbH;Aktiv;;;Nein
+301432;Lieferant;SüdEnergie;Aktiv;;;Nein
+301433;Lieferant;QuarzZiegel GmbH;Aktiv;;;Nein
+301434;Lieferant;Aquila Sanitärtechnik;Aktiv;;;Nein
+301435;Lieferant;HanseSpedition GmbH;Aktiv;;;Nein
+301436;Lieferant;Nord Chemie mbH;Aktiv;;;Nein
+301437;Lieferant;CeresTrockenbau GmbH;Aktiv;;;Nein
+301438;Lieferant;ArgusMetall GmbH;Aktiv;;;Nein
+301439;Lieferant;Nova Systeme GmbH;Aktiv;;;Nein
+301440;Lieferant;HanseTransport GmbH & Co. KG;Aktiv;;;Nein
+301441;Lieferant;WeserSpedition GmbH & Co. KG;Aktiv;;;Nein
+301442;Lieferant;Rhein Hochbau GmbH;Aktiv;;;Nein
+301443;Lieferant;Kompakt Werkzeuge GmbH;Aktiv;;;Nein
+301444;Lieferant;West Gerüstbau;Aktiv;;;Nein
+301445;Lieferant;Main Tiefbau GmbH;Aktiv;;;Nein
+301446;Lieferant;RheinMetall;Aktiv;;;Nein
+301447;Lieferant;Orion Technik;Aktiv;;;Nein
+301448;Lieferant;NordRecycling GmbH;Aktiv;;;Nein
+301449;Lieferant;Terra Elektro;Aktiv;;;Nein
+301450;Lieferant;WestZiegel GmbH & Co. KG;Aktiv;;;Nein
+301451;Lieferant;GranitMetall;Aktiv;;;Nein
+301452;Lieferant;PolarisProfile GmbH & Co. KG;Aktiv;;;Nein
+301453;Lieferant;NovaKunststoffe GmbH;Aktiv;;;Nein
+301454;Lieferant;Ceres Elektro GmbH;Aktiv;;;Nein
+301455;Lieferant;ZenitBau;Aktiv;;;Nein
+301456;Lieferant;Main Hochbau GmbH;Aktiv;;;Nein
+301457;Lieferant;AtlasHandel GmbH;Aktiv;;;Nein
+301458;Lieferant;Quarz Hochbau GmbH;Aktiv;;;Nein
+301459;Lieferant;HanseEnergie;Aktiv;;;Nein
+301460;Lieferant;Ceres Folien GmbH & Co. KG;Aktiv;;;Nein
+301461;Lieferant;Quarz Industriebedarf GmbH;Aktiv;;;Nein
+301462;Lieferant;Primus Beton;Aktiv;;;Nein
+301463;Lieferant;ProJob Musterland GmbH;Aktiv;;;Nein
+301464;Lieferant;SilvaKunststoffe GmbH;Aktiv;;;Nein
+301465;Lieferant;Circinus Werbetechnik;Aktiv;;;Nein
+301466;Lieferant;ArgusFolien;Aktiv;;;Nein
+301467;Lieferant;Süd Recycling GmbH & Co. KG;Aktiv;;;Nein
+301468;Lieferant;PolarisVerpackung;Aktiv;;;Nein
+301469;Lieferant;BasaltTechnik GmbH & Co. KG;Aktiv;;;Nein
+301470;Lieferant;Eisenbahner Sportverein Musterstadt 1888 e.V.;Aktiv;;;Nein
+301471;Lieferant;Fokus Estrich GmbH & Co. KG;Aktiv;;;Nein
+301472;Lieferant;Allgäu Isoliertechnik GmbH;Aktiv;;;Nein
+301473;Lieferant;BasaltIndustriebedarf GmbH & Co. KG;Aktiv;;;Nein
+301474;Lieferant;HansePlatten GmbH;Aktiv;;;Nein
+301475;Lieferant;Korund Isoliertechnik;Aktiv;;;Nein
+301476;Lieferant;BorealisTransport GmbH;Aktiv;;;Nein
+301477;Lieferant;Ost Bedachung;Aktiv;;;Nein
+301478;Lieferant;ELBTALMETALL GMBH;Aktiv;;;Nein
+301479;Lieferant;Harz Baustoffe;Aktiv;;;Nein
+301480;Lieferant;NovaBedachung;Aktiv;;;Nein
+301481;Lieferant;Weser Gerüstbau;Aktiv;;;Nein
+301482;Lieferant;Klinker Handel GmbH;Aktiv;;;Nein
+301483;Lieferant;BasaltGerüstbau;Aktiv;;;Nein
+301484;Lieferant;QuarzAnlagenbau OHG;Aktiv;;;Nein
+301485;Lieferant;RoburAnlagenbau GmbH;Aktiv;;;Nein
+301486;Lieferant;Korund Logistik GmbH;Aktiv;;;Nein
+301487;Lieferant;ROBURWERKZEUGE AG;Aktiv;;;Nein
+301488;Lieferant;Talus Tiefbau GmbH;Aktiv;;;Nein
+301489;Lieferant;QUARZENERGIE GMBH;Aktiv;;;Nein
+301490;Lieferant;SilvaTransport;Aktiv;;;Nein
+301491;Lieferant;HanseMaschinen;Aktiv;;;Nein
+301492;Lieferant;Robur Bedachung GmbH;Zur Loeschung markiert;;16.01.2024;Nein
+301493;Lieferant;ArgusProfile GmbH & Co. KG;Aktiv;;;Nein
+301494;Lieferant;Solid Gerüstbau;Aktiv;;;Nein
+301495;Lieferant;ARGUS BAUBEDARF GMBH;Aktiv;;;Nein
+301496;Lieferant;TalusPaneele GmbH;Aktiv;;;Nein
+301497;Lieferant;SolidTechnik GmbH;Aktiv;;;Nein
+301499;Lieferant;WestPlatten;Aktiv;;;Nein
+301500;Lieferant;GRANITKUNSTSTOFFE GMBH;Aktiv;;;Nein
+301501;Lieferant;WeserRecycling GmbH;Aktiv;;;Nein
+301502;Lieferant;SolidDämmtechnik;Aktiv;;;Nein
+301503;Lieferant;Granit Baustoffe GmbH;Aktiv;;;Nein
+301504;Lieferant;OrionIndustriebedarf;Aktiv;;;Nein
+301505;Lieferant;ArgusPaneele GmbH;Aktiv;;;Nein
+301506;Lieferant;FormaLogistik GmbH;Aktiv;;;Nein
+301507;Lieferant;AllgäuMetall GmbH;Aktiv;;;Nein
+301508;Lieferant;Hanse Logistik;Aktiv;;;Nein
+301509;Lieferant;AlpenMontage;Aktiv;;;Nein
+301510;Lieferant;Main Estrich KG;Aktiv;;;Nein
+301511;Lieferant;TalusBaubedarf GmbH;Aktiv;;;Nein
+301512;Lieferant;BasaltMontage GmbH;Aktiv;;;Nein
+301513;Lieferant;TaunusGerüstbau GmbH;Aktiv;;;Nein
+301514;Lieferant;NORD KUNSTSTOFFE GMBH & CO. KG;Aktiv;;;Nein
+301515;Lieferant;BorealisBau GmbH & Co. KG;Aktiv;;;Nein
+301516;Lieferant;Nova Trockenbau GmbH;Aktiv;;;Nein
+301517;Lieferant;Taunus Trockenbau GmbH;Aktiv;;;Nein
+301518;Lieferant;Atlas Platten GmbH;Aktiv;;;Nein
+301519;Lieferant;TERRABEDACHUNG GMBH;Aktiv;;;Nein
+301520;Lieferant;OrionBeton GmbH & Co. KG;Aktiv;;;Nein
+301521;Lieferant;QUARZ KUNSTSTOFFE GMBH;Aktiv;;;Nein
+301522;Lieferant;Vulkan Bau GmbH;Gesperrt;27.03.2024;;Nein
+301523;Lieferant;QuarzBedachung;Aktiv;;;Nein
+301524;Lieferant;TALUS INDUSTRIEBEDARF;Aktiv;;;Nein
+301525;Lieferant;OST SYSTEME GMBH;Aktiv;;;Nein
+301526;Lieferant;Antlia Estrichtechnik GmbH;Aktiv;;;Nein
+301527;Lieferant;ElbtalHandel GmbH;Aktiv;;;Nein
+301528;Lieferant;Klinker Metall GmbH;Aktiv;;;Nein
+301529;Lieferant;AtlasBeton GmbH;Aktiv;;;Nein
+301530;Lieferant;SüdBau;Aktiv;;;Nein
+301531;Lieferant;NovaIsoliertechnik e.K.;Gesperrt;22.07.2024;;Nein
+301532;Lieferant;HanseBaubedarf GmbH & Co. KG;Aktiv;;;Nein
+301533;Lieferant;PrismaRecycling GmbH & Co. KG;Aktiv;;;Nein
+301534;Lieferant;NovaSpedition GmbH;Aktiv;;;Nein
+301535;Lieferant;AllgäuRecycling GmbH;Aktiv;;;Nein
+301536;Lieferant;VegaTechnik;Aktiv;;;Nein
+301537;Lieferant;Hanse Hochbau GmbH;Aktiv;;;Nein
+301538;Lieferant;TalusEstrich;Aktiv;;;Nein
+301539;Lieferant;BorealisPlatten GmbH;Aktiv;;;Nein
+301540;Lieferant;Nord Verpackung GmbH;Aktiv;;;Nein
+301541;Lieferant;RHEIN MONTAGE GMBH;Aktiv;;;Nein
+301542;Lieferant;MainGerüstbau;Aktiv;;;Nein
+301543;Lieferant;RheinGerüstbau GmbH;Aktiv;;;Nein
+301544;Lieferant;ZenitAnlagenbau GmbH & Co. KG;Aktiv;;;Nein
+301545;Lieferant;SüdEstrich GmbH;Aktiv;;;Nein
+301546;Lieferant;Klinker Werkzeuge;Aktiv;;;Nein
+301547;Lieferant;FSV Veritas Musterstadt/Breese e.V.;Aktiv;;;Nein
+301548;Lieferant;Columba Bürotechnik;Aktiv;;;Nein
+301549;Lieferant;SolidProfile GmbH;Aktiv;;;Nein
+301550;Lieferant;TaunusMontage;Aktiv;;;Nein
+301551;Lieferant;MainIndustriebedarf;Aktiv;;;Nein
+301552;Lieferant;TerraSysteme GmbH;Aktiv;;;Nein
+301553;Lieferant;PRIMUS ISOLIERTECHNIK GMBH & CO KG;Aktiv;;;Nein
+301554;Lieferant;Klinker Baubedarf GmbH;Aktiv;;;Nein
+301555;Lieferant;QUARZESTRICH GMBH;Aktiv;;;Nein
+301556;Lieferant;Polaris Paneele GmbH;Aktiv;;;Nein
+301557;Lieferant;Boreas Industriebedarf GmbH & Co. KG;Aktiv;;;Nein
+301558;Lieferant;Atlas Tiefbau GmbH & Co. KG;Aktiv;;;Nein
+301559;Lieferant;KlinkerBaustoffe GmbH;Aktiv;;;Nein
+301560;Lieferant;Nutzfahrzeuge & ReifenService Musterstadt;Aktiv;;;Nein
+301561;Lieferant;QuarzTiefbau;Aktiv;;;Nein
+301562;Lieferant;Forma Anlagenbau GbR;Aktiv;;;Nein
+301563;Lieferant;SilvaPlatten Limited;Aktiv;;;Nein
+301564;Lieferant;VegaBaustoffe GmbH & Co. KG;Aktiv;;;Nein
+301565;Lieferant;BorealisSysteme GmbH & Co. KG;Aktiv;;;Nein
+301566;Lieferant;Harz Kunststoffe;Aktiv;;;Nein
+301567;Lieferant;Silva Logistik;Aktiv;;;Nein
+301568;Lieferant;Beispiel d.o.o.;Aktiv;;;Nein
+301569;Lieferant;QUARZ RECYCLING GMBH;Aktiv;;;Nein
+301570;Lieferant;VegaChemie GmbH;Aktiv;;;Nein
+301571;Lieferant;PrimusDämmtechnik;Aktiv;;;Nein
+301572;Lieferant;Robur Metall;Aktiv;;;Nein
+301573;Lieferant;Beispiel s. r. o.;Aktiv;;;Nein
+301574;Lieferant;Terra Paneele GmbH & Co. KG;Aktiv;;;Nein
+301575;Lieferant;Förderverein des OSZ Musterland e,.V.;Aktiv;;;Nein
+301576;Lieferant;KlinkerZiegel GmbH;Aktiv;;;Nein
+301577;Lieferant;Hydrus Metallbau;Aktiv;;;Nein
+301578;Lieferant;Rhein Systeme;Aktiv;;;Nein
+301579;Lieferant;NordTransport GmbH;Aktiv;;;Nein
+301580;Lieferant;AlpenBau GmbH;Aktiv;;;Nein
+301581;Lieferant;Forma Paneele GmbH;Aktiv;;;Nein
+301582;Lieferant;AlpenBaustoffe;Aktiv;;;Nein
+301583;Lieferant;Delta Energie KG;Aktiv;;;Nein
+301584;Lieferant;Quarz Industriebedarf GmbH & Co. KG;Aktiv;;;Nein
+301585;Lieferant;PRISMA PROFILE GMBH;Aktiv;;;Nein
+301586;Lieferant;OST RECYCLING GMBH;Aktiv;;;Nein
+301587;Lieferant;Atlas Gerüstbau GmbH;Aktiv;;;Nein
+301588;Lieferant;BorealisElektro KG;Aktiv;;;Nein
+301589;Lieferant;AlpenMaschinen GmbH;Aktiv;;;Nein
+301590;Lieferant;Forma Ziegel;Aktiv;;;Nein
+301591;Lieferant;Vulkan Baubedarf GmbH;Aktiv;;;Nein
+301593;Lieferant;VulkanEnergie mbH;Aktiv;;;Nein
+301594;Lieferant;KompaktTechnik GmbH & Co. KG;Aktiv;;;Nein
+301595;Lieferant;Allgäu Metall GmbH;Aktiv;;;Nein
+301596;Lieferant;DeltaMetall SE;Aktiv;;;Nein
+301597;Lieferant;Terra Kunststoffe GmbH;Aktiv;;;Nein
+301599;Lieferant;RheinElektro GmbH & Co. KG;Aktiv;;;Nein
+301600;Lieferant;MainHochbau GmbH;Aktiv;;;Nein
+301601;Lieferant;CeresTrockenbau;Aktiv;;;Nein
+301602;Lieferant;Nova Isoliertechnik GmbH;Aktiv;;;Nein
+301603;Lieferant;Silva Gebäudetechnik GmbH;Aktiv;;;Nein
+301604;Lieferant;Allgäu Verpackung mbH;Aktiv;;;Nein
+301605;Lieferant;BorealisBeton AG;Aktiv;;;Nein
+301606;Lieferant;KorundChemie;Aktiv;;;Nein
+301607;Lieferant;Granit Estrich;Aktiv;;;Nein
+301608;Lieferant;QuarzSpedition AG;Aktiv;;;Nein
+301609;Lieferant;Granit Profile;Aktiv;;;Nein
+301610;Lieferant;Boreas Maschinen GmbH;Aktiv;;;Nein
+301611;Lieferant;Delta Verpackung;Aktiv;;;Nein
+301612;Lieferant;SolidBaubedarf;Aktiv;;;Nein
+301613;Lieferant;Monoceros Dämmtechnik GmbH & Co. KG;Aktiv;;;Nein
+301614;Lieferant;WESTMONTAGE GMBH;Aktiv;;;Nein
+301615;Lieferant;Argus Folien LTD;Aktiv;;;Nein
+301616;Lieferant;BorealisBaustoffe GmbH;Aktiv;;;Nein
+301617;Lieferant;BasaltSpedition GmbH;Aktiv;;;Nein
+301618;Lieferant;Indus Arbeitsschutz;Aktiv;;;Nein
+301619;Lieferant;Robur Logistik GmbH;Aktiv;;;Nein
+301620;Lieferant;SolidPaneele NV;Aktiv;;;Nein
+301621;Lieferant;Basalt Bedachung GmbH;Aktiv;;;Nein
+301622;Lieferant;Prisma Energie;Aktiv;;;Nein
+301623;Lieferant;NovaGebäudetechnik GmbH;Aktiv;;;Nein
+301625;Lieferant;Primus Dämmtechnik gmbh;Aktiv;;;Nein
+301626;Lieferant;VegaProfile GmbH & Co. KG;Aktiv;;;Nein
+301627;Lieferant;Harz Hochbau GmbH;Aktiv;;;Nein
+301628;Lieferant;FOKUS RECYCLING GMBH;Aktiv;;;Nein
+301629;Lieferant;Alpen Handel;Aktiv;;;Nein
+301630;Lieferant;BorealisChemie GmbH;Aktiv;;;Nein
+301631;Lieferant;Prisma Ziegel;Aktiv;;;Nein
+301632;Lieferant;Quarz Elektro GmbH;Aktiv;;;Nein
+301633;Lieferant;ORION BAU GMBH;Aktiv;;;Nein
+301634;Lieferant;SolidIndustriebedarf GmbH;Aktiv;;;Nein
+301635;Lieferant;WestRecycling GmbH;Aktiv;;;Nein
+301636;Lieferant;HarzIndustriebedarf GmbH & Co. KG;Aktiv;;;Nein
+301637;Lieferant;Vulkan Industriebedarf NV;Aktiv;;;Nein
+301638;Lieferant;Korund Tiefbau GmbH;Aktiv;;;Nein
+301639;Lieferant;Terra Kunststoffe;Aktiv;;;Nein
+301640;Lieferant;OST ANLAGENBAU;Aktiv;;;Nein
+301641;Lieferant;QuarzRecycling GmbH;Aktiv;;;Nein
+301642;Lieferant;TAUNUS ENERGIE GMBH;Aktiv;;;Nein
+301643;Lieferant;Delta Anlagenbau GmbH;Aktiv;;;Nein
+301644;Lieferant;Klinker Isoliertechnik GmbH;Aktiv;;;Nein
+301645;Lieferant;ElbePort Musterstadt GmbH;Aktiv;;;Nein
+301646;Lieferant;AlpenGerüstbau;Aktiv;;;Nein
+301647;Lieferant;Main Platten GmbH & Co. KG;Aktiv;;;Nein
+301648;Lieferant;TerraWerkzeuge;Aktiv;;;Nein
+301649;Lieferant;ArgusZiegel GmbH & Co. KG;Aktiv;;;Nein
+301650;Lieferant;Talus Anlagenbau GmbH;Aktiv;;;Nein
+301651;Lieferant;NovaBaubedarf GmbH;Aktiv;;;Nein
+301652;Lieferant;DeltaTechnik KG;Aktiv;;;Nein
+301653;Lieferant;SüdRecycling GmbH;Aktiv;;;Nein
+301654;Lieferant;Boreas Bedachung GmbH;Aktiv;;;Nein
+301655;Lieferant;KLINKERPANEELE;Aktiv;;;Nein
+301656;Lieferant;MainBaubedarf GmbH;Aktiv;;;Nein
+301657;Lieferant;RoburTechnik;Aktiv;;;Nein
+301658;Lieferant;VegaPlatten;Aktiv;;;Nein
+301659;Lieferant;Nord Anlagenbau GmbH & Co. KG;Aktiv;;;Nein
+301661;Lieferant;KompaktVerpackung GmbH;Aktiv;;;Nein
+301662;Lieferant;SilvaTechnik GmbH;Aktiv;;;Nein
+301663;Lieferant;Elbtal Recycling GmbH;Aktiv;;;Nein
+301664;Lieferant;Beispiel GmbH;Aktiv;;;Nein
+301665;Lieferant;Beispiel Bulgaria Ltd.;Aktiv;;;Nein
+301666;Lieferant;Taunus Dämmtechnik;Aktiv;;;Nein
+301667;Lieferant;Corvus Baulogistik;Aktiv;;;Nein
+301668;Lieferant;Talus Technik GmbH;Aktiv;;;Nein
+301669;Lieferant;TalusTechnik GmbH;Aktiv;;;Nein
+301670;Lieferant;NordKunststoffe GmbH;Aktiv;;;Nein
+301671;Lieferant;Primus Baubedarf GmbH;Aktiv;;;Nein
+301672;Lieferant;Borealis Transport GmbH & Co. KG;Aktiv;;;Nein
+301673;Lieferant;AtlasTransport;Aktiv;;;Nein
+301674;Lieferant;Pyxis Verpackungstechnik KG;Aktiv;;;Nein
+301675;Lieferant;Taunus Beton GmbH & Co. KG;Aktiv;;;Nein
+301677;Lieferant;DeltaRecycling GmbH;Aktiv;;;Nein
+301678;Lieferant;ElbtalBau;Aktiv;;;Nein
+301679;Lieferant;AllgäuSpedition;Aktiv;;;Nein
+301680;Lieferant;Weser Logistik;Aktiv;;;Nein
+301681;Lieferant;Alpen Gerüstbau GmbH;Aktiv;;;Nein
+301682;Lieferant;Taunus Chemie GmbH;Aktiv;;;Nein
+301683;Lieferant;NordGerüstbau mbH;Aktiv;;;Nein
+301684;Lieferant;Süd Bedachung GmbH & Co KG;Aktiv;;;Nein
+301685;Lieferant;HanseKunststoffe GmbH & Co. KG;Aktiv;;;Nein
+301686;Lieferant;SÜDPROFILE GMBH;Aktiv;;;Nein
+301687;Lieferant;Weser Paneele GmbH;Aktiv;;;Nein
+301688;Lieferant;Polaris Metall GmbH;Aktiv;;;Nein
+301689;Lieferant;Harz Montage GmbH;Aktiv;;;Nein
+301690;Lieferant;West Verpackung;Aktiv;;;Nein
+301691;Lieferant;Delta Werkzeuge GmbH & Co. KG;Aktiv;;;Nein
+301692;Lieferant;TGZ Musterland GmbH;Aktiv;;;Nein
+301693;Lieferant;Elbtal Hochbau GmbH;Aktiv;;;Nein
+301694;Lieferant;West Chemie;Aktiv;;;Nein
+301695;Lieferant;OSTISOLIERTECHNIK GMBH;Aktiv;;;Nein
+301696;Lieferant;VulkanEnergie;Aktiv;;;Nein
+301697;Lieferant;Cepheus Gartenbau;Aktiv;;;Nein
+301698;Lieferant;AtlasElektro GmbH & Co. KG;Aktiv;;;Nein
+301699;Lieferant;West Maschinen GmbH & Co. KG;Aktiv;;;Nein
+301700;Lieferant;OrionMetall B.V.;Aktiv;;;Nein
+301701;Lieferant;KompaktEstrich GmbH;Aktiv;;;Nein
+301702;Lieferant;ALLGÄUDÄMMTECHNIK GMBH;Aktiv;;;Nein
+301703;Lieferant;KompaktLogistik;Aktiv;;;Nein
+301704;Lieferant;NovaHochbau GmbH;Aktiv;;;Nein
+301705;Lieferant;Nova Werkzeuge mbH;Aktiv;;;Nein
+301706;Lieferant;SilvaZiegel;Aktiv;;;Nein
+301707;Lieferant;Vega Beton KG;Aktiv;;;Nein
+301708;Lieferant;Silva Metall GmbH & Co. KG;Aktiv;;;Nein
+301709;Lieferant;TalusHandel GmbH;Aktiv;;;Nein
+301710;Lieferant;PrismaGebäudetechnik GmbH;Aktiv;;;Nein
+301711;Lieferant;HanseFolien;Aktiv;;;Nein
+301712;Lieferant;Elbtal Gerüstbau;Aktiv;;;Nein
+301713;Lieferant;Autohaus Sportivo Musterstadt GmbH;Aktiv;;;Nein
+301715;Lieferant;Vega Baustoffe GmbH;Aktiv;;;Nein
+301716;Lieferant;SolidBedachung GmbH;Aktiv;;;Nein
+301717;Lieferant;Robur Gerüstbau GmbH;Aktiv;;;Nein
+301718;Lieferant;Volans Dämmsysteme GmbH;Aktiv;;;Nein
+301719;Lieferant;AtlasFolien GmbH;Aktiv;;;Nein
+Gem. Aland OT Vielbaum";Lieferant;;Aktiv;;;Nein

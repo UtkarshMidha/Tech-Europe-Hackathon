@@ -1,0 +1,23 @@
+"PctPerNet";"Purchase DOM 0%";0,00;;
+"PctPerNet";"Purchase DOM 7%";7,00;;
+"PctPerNet";"Purchase DOM 16%";16,00;;
+"PctPerNet";"Purchase DOM 19%";19,00;;
+"PctPerNet";"Purchase Third Country";0,00;;
+"PctPerNet";"Purchase EU 0%";0,00;;
+"PctPerNet";"Purchase EU 7%";7,00;;
+"PctPerNet";"Purchase EU 19%";19,00;;
+"PctPerNet";"PurchaseImportTurnoverTax EUSt";0,00;;
+"PctPerNet";"Purchase Not Taxable";0,00;;
+"PctPerNet";"Purchase EU Reverse Charge 19%";19,00;;
+"PctPerNet";"Purchase Electricity 19%";19,00;;
+"PctPerNet";"Sales DOM 7%";7,00;;
+"PctPerNet";"Sales DOM 19%";19,00;;
+"PctPerNet";"Sales Third Country";0,00;;
+"PctPerNet";"Sales Scrap Reverse Charge DOM";0,00;;
+"PctPerNet";"Sales EU";0,00;;
+"PctPerNet";"Sales Services EU Not Taxable";0,00;;
+"PctPerNet";"keine steuerbaren Umsätze";0,00;;
+"PctPerNet";"Sales Not Taxable";0,00;;
+"PctPerNet";"LU Purchase 17%";17,00;;
+"PctPerNet";"LU Sales 16%";16,00;01.01.2023;31.12.2023
+"PctPerNet";"LU Sales 17%";17,00;;

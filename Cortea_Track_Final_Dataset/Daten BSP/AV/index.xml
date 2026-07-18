@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DataSet SYSTEM "gdpdu-01-08-2002.dtd">
+<DataSet>
+  <Version>1</Version>
+  <DataSupplier>
+    <Name>Beispiel Dämmstoffe GmbH</Name>
+    <Location>Musterweg 15
+12945 Musterstadt
+Germany</Location>
+    <Comment>AV 2025 1 - 12</Comment>
+  </DataSupplier>
+  <Media>
+    <Name>1</Name>
+    <Table>
+      <URL>Anlagen.txt</URL>
+      <Name>Anlagen</Name>
+      <Description>Anlagen</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>ANLAGENNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENBEZEICHNUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENGRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENTYP</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENSTANDORT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>HAUPTANLAGE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENHERSTELLER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENMODELL</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>STATUS</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+    <Table>
+      <URL>Anlagenbuchungen.txt</URL>
+      <Name>Anlagenbuchungen</Name>
+      <Description>Anlagenbuchungen</Description>
+      <Validity>
+        <Range>
+          <From>01.01.2025</From>
+          <To>31.12.2025</To>
+        </Range>
+      </Validity>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>ANLAGENNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>WERTSTELLUNG</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSBETRAG</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWÄHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWERT</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSART</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSTEXT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ANLAGENGRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSEBENE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+  </Media>
+</DataSet>

@@ -1,0 +1,25 @@
+NAME;ANTEIL_PROZENT;IC_KENNZEICHEN;VERHAELTNIS;BEMERKUNG
+GESELLSCHAFTER;;;;
+Beispiel Holding GmbH, Wien (AUT);100,00;IC;Muttergesellschaft;mittelbar oberste Konzernmutter: Beispiel Industrie Beteiligungs GmbH, Wien
+;;;;
+VERBUNDENE UNTERNEHMEN (Auszug Konzernkreis);;;;
+BOREASLOGISTIK GMBH (DEU);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 800086
+BEISPIEL ÖSTERREICH GMBH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 800150
+WESER GEBÄUDETECHNIK GMBH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 801033
+WEST WERKZEUGE GMBH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 802999
+BEISPIEL D.O.O. (SRB);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 803000
+BEISPIEL COM S.R.L. (ROU);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 803001
+BEISPIEL BH D.O.O. (BIH);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 803032
+BOREASBEDACHUNG GMBH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 803036
+BEISPIEL GMBH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kunde 803129
+Beispiel Sp. z o.o. (POL);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 300121
+GranitBau (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 300195
+Nova Anlagenbau GmbH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 300328
+Alpen Systeme GmbH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 300434
+ArgusEnergie GmbH (DEU);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 300596
+SilvaKunststoffe (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301151
+Beispiel Nordic ApS (DNK);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301252
+Klinker Ziegel S r.o. (CZE);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301278
+BEISPIEL CZ S R.O. (CZE);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301401
+Beispiel s. r. o. (SVK);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301573
+Beispiel Bulgaria Ltd. (BGR);0,00;IC;Schwestergesellschaft;Personenkonto Lieferant 301665

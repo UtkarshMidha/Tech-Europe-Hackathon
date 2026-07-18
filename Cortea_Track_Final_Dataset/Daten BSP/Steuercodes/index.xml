@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DataSet SYSTEM "gdpdu-01-08-2002.dtd">
+<DataSet>
+  <Version>Steuercodes</Version>
+  <DataSupplier>
+    <Name>Beispiel Dämmstoffe GmbH</Name>
+    <Location>Musterweg 15
+12945 Musterstadt
+Germany</Location>
+    <Comment />
+  </DataSupplier>
+  <Media>
+    <Name>1</Name>
+    <Table>
+      <URL>Umsatzsteuercodes.txt</URL>
+      <Name>Umsatzsteuercodes</Name>
+      <Description>Umsatzsteuercodes</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>BUCHUNGSGRUNDLAGE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>NAME</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>PROZENTSATZ</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>GÜLTIGAB</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>GÜLTIGBIS</Name>
+          <Date />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+    <Table>
+      <URL>Umsatzsteuerbuchungen.txt</URL>
+      <Name>Umsatzsteuerbuchungen</Name>
+      <Description>Umsatzsteuerbuchungen</Description>
+      <Validity>
+        <Range>
+          <From>01.01.2025</From>
+          <To>31.12.2025</To>
+        </Range>
+      </Validity>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>STEUERART</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>STEUERBUCHUNGSREFERENZ</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MWST_CODE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>WERTSTELLUNG</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWÄHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSBETRAG</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWERT</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>QUELLE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSGRUNDLAGE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGWÄHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>GRUNDLAGE</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>PROZENTSATZ</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MWST_GRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KONTO_MWST_AUSGABEN</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTO</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ARTIKEL_MWST_GRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+    <Table>
+      <URL>MehrwertsteuerGruppen.txt</URL>
+      <Name>MehrwertsteuerGruppen</Name>
+      <Description>MehrwertsteuerGruppen</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>BESCHREIBUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MEHRWERTSTEUERGRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MWST_AUF_SKONTO_STORNIEREN</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MWST_CODE_NAME</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MEHRWERTSTEUERCODE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ERWERBSSTEUER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+  </Media>
+</DataSet>

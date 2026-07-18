@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: proofline
+    runtime: docker
+    region: frankfurt
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-5.6
+      - key: DEMO_TOKEN
+        generateValue: true

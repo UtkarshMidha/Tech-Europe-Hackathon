@@ -1,0 +1,15 @@
+.git
+.agents
+.env*
+!.env.example
+**/__pycache__
+**/.pytest_cache
+frontend/node_modules
+frontend/dist
+*GROUND-TRUTH*
+*ground-truth*
+*SEALED*
+*sealed*
+*ANSWER*
+*answer*
+

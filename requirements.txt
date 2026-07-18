@@ -1,0 +1,8 @@
+fastapi==0.139.2
+uvicorn[standard]==0.51.0
+python-multipart==0.0.32
+openpyxl==3.1.5
+pypdf==6.14.2
+openai==2.37.0
+pytest==8.4.2
+httpx==0.28.1

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DataSet SYSTEM "gdpdu-01-08-2002.dtd">
+<DataSet>
+  <Version>1</Version>
+  <DataSupplier>
+    <Name>Beispiel Dämmstoffe GmbH</Name>
+    <Location>Musterweg 15
+12945 Musterstadt
+Germany</Location>
+    <Comment>Sachkonten 2025 1 - 12</Comment>
+  </DataSupplier>
+  <Media>
+    <Name>1</Name>
+    <Table>
+      <URL>Sachkonten.txt</URL>
+      <Name>Sachkonten</Name>
+      <Description>Sachkonten</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>SACHKONTONUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTONAME</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTOTYP</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTOSPERRE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTOEXCLUSIVBENUTZER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SACHKONTOBENUTZUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KONTENART</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+    <Table>
+      <URL>Sachkontobuchungen.txt</URL>
+      <Name>Sachkontobuchungen</Name>
+      <Description>Sachkontobuchungen</Description>
+      <Validity>
+        <Range>
+          <From>01.01.2025</From>
+          <To>31.12.2025</To>
+        </Range>
+      </Validity>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>SACHKONTONUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>PERIODENCODE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>STEUERBUCHUNGSREFERENZ</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>PERIODENZUGEHÖRIGKEIT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSTYP</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KORREKTUR</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>HABENBUCHUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSBETRAG</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWÄHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWERT</Name>
+          <Numeric>
+            <Accuracy>2</Accuracy>
+          </Numeric>
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSTEXT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSDATUM</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGDATUM</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>SPEZIALBUCHUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ERFASSUNGSNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>JOURNALZEILE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>GEGENKONTO</Name>
+          <Numeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>DOKUMENT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BENUTZERKENNUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ERFASSUNGSDATUM</Name>
+          <Date />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>ERFASSUNGSZEIT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>FESTSCHREIBUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+  </Media>
+</DataSet>
